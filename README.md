@@ -20,6 +20,6 @@ This repository has made use of data from various sources compile a list of S&P 
 2. Tickers listed in this table are point in time tickers (meaning on the day in history it is the correct ticker, but it can change after the day). It is better to use a unique identifier like CUSIP or ISIN.
 3. The history is not up to date. I am looking to add information for after 2016.
 
-## Collaboration
+## Contribution
 
 You are welcomed to submit a pull request if you spot any errors/mistakes. Please be sure to include some explanations on why you think it's wrong and how you verified your proposed request.
