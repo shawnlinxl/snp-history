@@ -1,435 +1,435 @@
-Announced,Implemented,Addition,Addition Ticker,Removal,Removal Ticker,Removal Type,Reason for Removal,
-12/29/1999,1/5/2000,Young & Rubicam,YNR,General Instrument Corp,GIC,M&A,Acquisition by Motorola,
-1/24/2000,1/28/2000,Harley-Davidson,HDI,Fleetwood Enterprises,FLE,Failure,Lack of representation,
-1/24/2000,1/28/2000,"Biogen, Inc",BGEN,Foster Wheeler,FWC,Failure,Lack of representation,
-1/26/2000,1/28/2000,Conexant Systems,CNXT,Consolidated Natural Gas,CNG,M&A,Bought by Dominion Resources,
-3/8/2000,3/15/2000,Sabre Holdings Corp,TSG,Service Corp. International,SRV,Failure,Lack of representation,
-3/27/2000,3/31/2000,Linear Technology Corp,LLTC,"Pharmacia & Upjohn, Inc",PNU,M&A,Merger with Monsanto,
-3/29/2000,3/31/2000,Veritas Software,VRTS,Pep Boys,PBY,Failure,Lack of representation,
-4/12/2000,4/17/2000,Altera Corp,ALTR,Atlantic Richfield,ARC,M&A,Acquisition by BP Amoco,
-4/12/2000,6/5/2000,Convergys Corp,CVG,Times Mirror,TMC,M&A,Acquisition by Tribune Company,
-5/1/2000,5/4/2000,"Siebel Systems, Inc",SEBL,CBS Corp,CBS,M&A,Acquisition by Viacom,
-5/2/2000,5/9/2000,Maxim Integrated Products,MXIM,Jostens Inc,JOS,M&A,Acquisition by Investcorp,
-5/3/2000,5/4/2000,Sapient Corp,SAPE,Reynolds Metals,RLM,M&A,Acquisition by Alcoa,
-5/11/2000,6/16/2000,MedImmune Inc,MEDI,Central & South West,CSR,M&A,Acquisition by American Electric Power,
-5/25/2000,6/2/2000,Agilent Technologies,A,NACCO Ind. Cl. A,NC,Failure,Lack of representation,
-5/25/2000,6/21/2000,Sanmina Corp,SANM,Warner-Lambert,WLA,M&A,Acquisition by Pfizer,
-5/26/2000,5/31/2000,American Power Conversion,APCC,Mirage Resorts,MIR,M&A,Acquisition by MGM Grand,
-6/5/2000,6/7/2000,Starbucks Corp,SBUX,Shared Medical Systems,SMS,M&A,Acquisition by Siemens,
-6/13/2000,6/20/2000,Tiffany & Co,TIF,Silicon Graphics,SGI,Other,Spins off large interest in MIPS Technologies,
-6/13/2000,6/16/2000,Novellus Systems,NVLS,Champion International,CHA,M&A,Acquisition by International Paper,
-6/15/2000,6/16/2000,Charter One Financial,CF,MediaOne Group Inc,UMG,M&A,Acquisition by AT&T Corp,
-6/19/2000,6/30/2000,Broadcom Corporation,BRCM,GTE Corp,GTE,M&A,Merger with Bell Atlantic,
-6/21/2000,6/28/2000,Visteon Corp,VC,IKON Office Solutions,IKN,Failure,Lack of representation,
-6/21/2000,6/28/2000,Mercury Interactive,MERQ,Milacron Inc,MZ,Failure,Market cap changes,
-6/27/2000,6/30/2000,Qwest Communications Int'l,Q,US West Inc,USW,M&A,Merger with Qwest,
-7/6/2000,7/12/2000,Stilwell Financial,SV,Kansas City Southern Ind,KSU,Other,Spins off Stilwell Financial,
-7/6/2000,7/14/2000,"CIT Group, Inc",CIT,Union Pacific Resources Group,UPR,M&A,Acquisition by Anadarko Petroleum,
-7/19/2000,7/26/2000,JDS Uniphase Corp,JDSU,Rite Aid,RAD,Failure,Lack of representation,
-7/20/2000,7/27/2000,Palm Inc,PALM,3Com Corp,COMS,Other,Spins off large interest in Palm,
-8/7/2000,8/21/2000,KeySpan Corp,KSE,New Century Energies,NCE,M&A,Acquisition by Northern States Power,
-8/23/2000,8/29/2000,Devon Energy Corp,DVN,Great A & P,GAP,Failure,Market cap changes,
-9/25/2000,9/29/2000,Avaya Inc.,AV,Owens Corning,OWC,Failure,Lack of representation,
-9/25/2000,10/2/2000,Dynegy Inc,DYN,BestFoods Inc,BFO,M&A,Acquisition by Unilever,
-9/27/2000,10/3/2000,King Pharmaceuticals,KG,Young & Rubicam,YNR,M&A,Acquisition by WPP Group,
-10/3/2000,10/18/2000,Nabors Industries,NBR,Mallinckrodt Inc,MKG,M&A,Acquisition by Tyco International,
-10/12/2000,10/16/2000,Power-One Inc,PWER,Unicom Corp,UCM,M&A,Acquisition by PECO Energy,
-10/16/2000,10/23/2000,BroadVision Inc,BVSN,PaineWebber Group,PWJ,M&A,Acquisition by UBS,
-10/25/2000,11/1/2000,NiSource Inc,NI,Columbia Energy Group,CG,M&A,Acquisition by NiSource,
-10/31/2000,11/1/2000,EOG Resources,EOG,Eastern Enterprises,EFU,M&A,Acquisition by KeySpan Energy,
-11/14/2000,11/21/2000,Forest Laboratories,FRX,Seagate Technology,SEG,M&A,Acquisition by Veritas,
-11/15/2000,11/16/2000,Starwood Hotels & Resorts,HOT,Armstrong World,ACK,Failure,Lack of representation,
-11/20/2000,11/24/2000,Chiron Corp,CHIR,Fort James Corp,FJ,M&A,Acquisition by Georgia Pacific,
-11/27/2000,11/30/2000,Calpine Corp,CPN,Florida Progress,FPC,M&A,Acquisition by CP&L Energy,
-11/29/2000,12/11/2000,MetLife Inc,MET,Seagram Co. Ltd,VO,M&A,Acquisition by Vivendi,
-12/1/2000,12/1/2000,Robert Half International,RHI,Associates First Capital,AFS,M&A,Acquisition by Citigroup,
-12/4/2000,12/8/2000,Allegheny Energy Inc,AYE,Bethlehem Steel,BS,Failure,Lack of representation,
-12/4/2000,12/8/2000,Ambac Financial Group,ABK,Crown Cork & Seal,CCK,Failure,Lack of representation,
-12/4/2000,12/8/2000,"Intuit, Inc",INTU,Owens-Illinois,OI,Failure,Lack of representation,
-12/4/2000,12/8/2000,Symbol Technologies,SBL,Grace (W.R.) & Co. (New),GRA,Failure,Lack of representation,
-12/5/2000,12/11/2000,QLogic Corp,QLGC,Polaroid Corp,PRD,Failure,Market cap changes,
-12/5/2000,12/11/2000,Stryker Corp,SYK,Russell Corp,RML,Failure,Market cap changes,
-12/5/2000,12/11/2000,Vitesse Semiconductor,VTSS,Springs Industries Inc,SMI,Failure,Market cap changes,
-12/7/2000,12/13/2000,Aetna Inc. (New),AET,Aetna Inc. (Old),AET,Other,"Aetna (old) sells financials business, spins off U.S. healthcare division, which becomes Aetna (new)",
-12/8/2000,12/12/2000,Kinder Morgan Inc,KMI,Nabisco Group Hldgs,NGH,M&A,Acquisition by RJ Reynolds,
-12/12/2000,12/21/2000,Fluor Corp.,FLR,Massey Energy,MEE,Other,Spins off Fluor,
-12/19/2000,12/29/2000,Applied Micro Circuits,AMCC,Morgan (J.P.) & Co,JPM,M&A,Acquisition by Chase Manhattan,
-12/19/2000,1/12/2001,Noble Drilling Corp,NE,Time Warner Inc,TWX,M&A,Acquisition by AOL,
-12/27/2000,1/30/2001,Jabil Circuit,JBL,Coastal Corp,CGP,M&A,Acquisition by El Paso,
-2/5/2001,2/7/2001,Univision Communications,UVN,Union Carbide,UK,M&A,Acquisition by Dow Chemical,
-2/21/2001,2/26/2001,Citizens Communications,CZN,U.S. Bancorp,USB,M&A,Acquisition by Firstar,
-2/27/2001,2/28/2001,Cintas Corporation,CTAS,Summit Bancorp,SUB,M&A,Acquisition by FleetBoston Financial Corp.,
-3/26/2001,3/30/2001,Concord EFS Inc,CEFT,Ceridian Corp,CEN,Other,Splits into Ceridian and Arbitron,
-3/27/2001,4/2/2001,Mirant Corporation,MIR,Briggs & Stratton,BGG,Failure,Market cap changes,
-3/27/2001,3/30/2001,FIserv Inc,FISV,Old Kent Financial,OK,M&A,Acquisition by Fifth Third Bancorp,
-5/7/2001,5/11/2001,Pepsi Bottling Group,PBG,"Adaptec, Inc",ADPT,Other,Spins off Roxio,
-5/22/2001,6/4/2001,TMP Worldwide,TMPW,"CIT Group, Inc",CIT,M&A,Acquisition by Tyco International,
-5/30/2001,6/27/2001,John Hancock Financial,JHF,Harcourt General Inc,H,M&A,Tender offer from Reed Elsevier,
-6/19/2001,6/22/2001,Zions Bancorp,ZION,ALZA Corp. Cl. A,AZA,M&A,Acquisition by Johnson & Johnson,
-6/25/2001,6/29/2001,Rockwell Collins,COL,Longs Drug Stores,LDG,Failure,Market cap changes,
-6/27/2001,7/6/2001,AT&T Wireless Services,AWE,Potlatch Corp,PCH,Failure,Market cap changes,
-7/30/2001,8/3/2001,Family Dollar Stores,FDO,Cabletron Systems,CS,Other,Spins off large interest in Riverstone Networks,
-7/31/2001,8/6/2001,Zimmer Holdings,ZMH,Timken Co,TKR,Failure,Market cap changes,
-8/1/2001,8/2/2001,PMC-Sierra Inc,PMCS,Quaker Oats,OAT,M&A,Acquisition by PepsiCo,
-8/22/2001,8/30/2001,CIENA Corp,CIEN,American General,AGC,M&A,Acquisition by AIG,
-8/27/2001,8/29/2001,AmerisourceBergen Corp,ABC,ONEOK Inc,OKE,Failure,Market cap changes,
-8/27/2001,9/4/2001,XL Capital,XL,Wachovia Corp,WB,M&A,Acquisition by First Union Corp,
-8/29/2001,8/31/2001,International Game Technology,IGT,BroadVision Inc,BVSN,Failure,Lack of representation,
-9/17/2001,9/20/2001,Immunex Corp,IMNX,Tosco Corp,TOS,M&A,Acquisition by Philips Petroleum,
-10/3/2001,10/9/2001,Equity Office Properties,EOP,Texaco Inc,TX,M&A,Acquisition by Chevron,
-10/4/2001,10/9/2001,TECO Energy,TE,Global Crossing Ltd,GX,Failure,Lack of representation,
-11/1/2001,11/6/2001,Health Management Assoc,HMA,GPU Inc,GPU,M&A,Acquisition by FirstEnergy Corp.,
-11/27/2001,11/30/2001,Equity Residential Prop Tr,EQR,National Service Ind,NSI,Other,Spins off Acuity Brands,
-11/28/2001,11/29/2001,NVIDIA Corp,NVDA,Enron Corp,ENE,Failure,Lack of representation,
-12/10/2001,12/14/2001,Jones Apparel Group,JNY,Homestake Mining,HM,M&A,Acquisition by Barrick Gold,
-12/12/2001,12/12/2001,Genzyme Corp,GENZ,Ralston-Ralston Purina Gp,RAL,M&A,Acquisition by Nestle,
-12/27/2001,12/31/2001,Waters Corporation,WAT,FMC Corp,FMC,Other,Spins off FMC Technologies,
-1/16/2002,1/16/2002,Plum Creek Timber Co.,PCL,Kmart,KM,Failure,Lack of representation,
-1/23/2002,1/29/2002,ACE Limited,ACE,Mead Corp,MEA,M&A,Merger with Westvaco,
-1/23/2002,1/31/2002,Rational Software,RATL,Niagara Mohawk Power,NMK,M&A,Acquisition by National Grid Group,
-2/6/2002,2/8/2002,Marshall & Ilsley Corp.,MI,Willamette Industries,WLL,M&A,Acquisition by Weyerhaeuser,
-5/2/2002,5/3/2002,First Tennessee National,FTN,COMPAQ Computer,CPQ,M&A,Acquisition by Hewlett-Packard,
-5/10/2002,5/10/2002,American Standard,ASD,Sapient Corp,SAPE,Failure,No longer meets standards of inclusion,
-5/13/2002,5/14/2002,BJ Services,BJS,USAirways Group Inc,U,Failure,Lack of representation,
-5/13/2002,5/14/2002,Apollo Group,APOL,WorldCom Inc.-WorldCom Group,WCOM,Failure,Lack of representation,
-6/20/2002,6/26/2002,"Simon Property Group, Inc",SPG,Conexant Systems,CNXT,Other,Reorganization,
-7/9/2002,7/19/2002,Prudential Financial,PRU,Alcan Inc,AL,Other,Not U.S. company,
-7/9/2002,7/19/2002,United Parcel Service,UPS,Barrick Gold Corp,ABX,Other,Not U.S. company,
-7/9/2002,7/19/2002,eBay Inc.,EBAY,"Inco, Ltd",N,Other,Not U.S. company,
-7/9/2002,7/19/2002,Electronic Arts,ERTS,Nortel Networks Corp Hldg Co,NT,Other,Not U.S. company,
-7/9/2002,7/19/2002,SunGard Data Systems,SDS,Placer Dome Inc,PDG,Other,Not U.S. company,
-7/9/2002,7/19/2002,Goldman Sachs Group,GS,Royal Dutch Petroleum,RD,Other,Not U.S. company,
-7/9/2002,7/19/2002,Principal Financial Group,PFG,Unilever N.V,UN,Other,Not U.S. company,
-7/12/2002,7/16/2002,North Fork Bancorporation,NFB,Immunex Corp,IMNX,M&A,Acquisition by Amgen,
-7/24/2002,7/24/2002,"Anthem, Inc.",ATH,Conseco Inc,CNC,Failure,Market cap changes,
-8/7/2002,8/13/2002,Monsanto Co.,MON,Palm Inc.,PALM,Failure,Market cap changes,
-8/14/2002,8/20/2002,Travelers Property Casualty Corp,TAP.B,Vitesse Semiconductor,VTSS,Failure,Market cap changes,
-8/30/2002,9/3/2002,RJ Reynolds Tobacco,RJR,Conoco Inc,COC,M&A,Merger with Philips,
-11/13/2002,11/18/2002,AT&T Comcast Corp.,CMCSA,Comcast Class A Special,CMCSK,M&A,"AT&T spins off broadband unit, merges it w/ Comcast to form AT&T Comcast",
-12/4/2002,12/11/2002,Quest Diagnostics,DGX,TRW Inc,TRW,M&A,Acquisition by Northrop Grumman,
-2/19/2003,2/21/2003,AutoNation Inc.,AN,Rational Software,RATL,M&A,Acquisition by IBM,
-3/11/2003,3/13/2003,Apartment Investment & Management Co,AIV,AMR Corp.,AMR,Failure,Market cap changes,
-3/19/2003,3/20/2003,McCormick & Company,MKC,HEALTHSOUTH Corp.,HRC,Failure,Allegations company violated securities laws,
-3/25/2003,3/28/2003,Symantec Corp.,SYMC,Household International,HI,M&A,Acquisition by HSBC Holdings,
-4/9/2003,4/15/2003,Federated Investors Inc.,FII,Pharmacia Corp.,PHA,M&A,Acquisition by Pfizer,
-7/15/2003,7/16/2003,ProLogis,PLD,Mirant Corp,MIR,Failure,Bankruptcy,
-8/13/2003,8/19/2003,Medco Health Solutions Inc.,MHS,McDermott International,MDR,Failure,Market cap changes,
-9/23/2003,9/25/2003,Express Scripts,ESRX,Quintiles Transnational,QTRN,M&A,Taken private,
-11/6/2003,11/12/2003,BIOGEN IDEC,BIIB,Biogen Inc.,BGEN,M&A,Merger w/ IDEC becoming BIOGEN IDEC,
-2/23/2004,2/26/2004,M&T Bank Corp.,MTB,Concord EFS Inc.,CE,M&A,Acquisition by First Data Corp,
-3/16/2004,3/24/2004,Caremark Rx,CMX,Tupperware Corp.,TUP,Failure,Market cap changes,
-3/25/2004,3/31/2004,E*Trade Financial,ET,FleetBoston Financial,FBF,M&A,Acquisition by Bank of America,
-3/29/2004,4/1/2004,Affiliated Computer Services,ACS,Travelers Property Casualty,TAP.B,M&A,Acqusition by St. Paul Companies,
-4/19/2004,4/22/2004,Mylan Laboratories,MYL,Sprint PCS,PCS,Other,Sprint Corp eliminated Sprint PCS tracking stock,
-4/19/2004,4/28/2004,Valero Energy,VLO,John Hancock Financial Services,JHF,M&A,Acquisition by Manulife Financial Corp,
-4/26/2004,4/30/2004,Hospira Inc.,HSP,American Greetings,AM,Failure,Market cap changes,
-6/24/2004,6/30/2004,Sovereign Bancorp,SOV,Union Planters Corporation,UPC,M&A,Merger with Regions Financial,
-6/26/2004,6/30/2004,Gilead Sciences,GILD,Bank One Corp.,ONE,M&A,Acquisition by JP Morgan Chase,
-7/26/2004,8/2/2004,Fisher Scientific,FSH,Thomas & Betts,TNB,Failure,Market cap changes,
-8/26/2004,8/31/2004,Coach Inc.,COH,Charter One Financial,CF,M&A,Acquisition by Royal Bank of Scotland,
-10/25/2004,10/29/2004,Laboratory Corp of America Holdings,LH,South Trust Corp.,SOTR,M&A,Acquisition by Wachovia,
-10/25/2004,10/26/2004,CIT Group,CIT,AT&T Wireless,AWE,M&A,Acquisition by Cingular Wireless,
-11/10/2004,11/30/2004,L-3 Communications Holdings,LLL,WellPoint Health Networks,WLP,M&A,Acquisition by Anthem,
-11/29/2004,12/2/2004,Freescale Semiconductor Inc.,FSL.B,Winn-Dixie,WIN,Failure,Market cap changes,
-12/8/2004,12/17/2004,Archstone-Smith Trust,ASN,Crane Co.,CR,Failure,Market cap changes,
-12/8/2004,12/17/2004,News Corp.,NWS.A,Deluxe Corp.,DLX,Failure,Market cap changes,
-12/8/2004,12/17/2004,Compass Bancshares,CBSS,Worthington Industries,WOR,Failure,Market cap changes,
-12/21/2004,12/28/2004,XTO Energy,XTO,PeopleSoft Inc.,PSFT,M&A,Acquisition by Oracle,
-3/7/2005,3/11/2005,National Oilwell Varco,NOV,Power-One,PWER,Failure,Market cap changes,
-3/21/2005,3/24/2005,Sears Holdings Corp.,SHLD,Sears  Roebuck & Co.,S,M&A,Merger with Kmart (creating Sears Holdings),
-6/22/2005,7/1/2005,D.R. Horton,DHI,Veritas Software,VRTS,M&A,Acquisition by Symantec,
-6/28/2005,7/1/2005,Constellation Brands,STZ,Great Lakes Chemical,GLK,M&A,Acquisition by Crompton Corp,
-7/12/2005,7/21/2005,Weatherford Int'l,WFT,"Toys ""R"" US",TOY,M&A,Taken private,
-7/26/2005,8/11/2005,Vornado Realty Trust,VNO,SunGard Data Systems,SDS,M&A,Taken private,
-8/4/2005,8/12/2005,Murphy Oil,MUR,Nextel Communications,NXTL,M&A,Acquisition by Sprint,
-8/4/2005,8/10/2005,Tyson Foods,TSN,Unocal Corp.,UCL,M&A,Acquisition by Chevron,
-8/15/2005,8/18/2005,Public Storage,PSA,Delta Air Lines,DAL,Failure,Market cap changes,
-8/29/2005,8/29/2005,Coventry Health Care Inc.,CVH,May Dept. Stores,MAY,M&A,Acquisition by Federated Department Stores,
-9/26/2005,9/30/2005,Ameriprise Financial,AMI,Providian Financial,PVN,M&A,Acquisition by Washington Mutual,
-9/30/2005,10/3/2005,Lennar Corp.,LEN,Gillette Co.,G,M&A,Acquisition by Procter & Gamble,
-10/7/2005,10/10/2005,Patterson Companies Inc.,PDCO,Delphi Corp.,DPH,Failure,Bankruptcy,
-11/14/2005,11/18/2005,Amazon.com,AMZN,AT&T Corp.,T,M&A,Acquisition by SBC Communications,
-11/29/2005,12/1/2005,Genworth Financial Inc.,GNW,Calpine Corp.,CPN,Failure,Market cap changes,
-12/8/2005,12/15/2005,E.W. Scripps,SSP,Georgia-Pacific Group,GP,M&A,Acquisition by Koch Industries,
-12/27/2005,12/30/2005,Viacom Inc. (New),VIA.B,Visteon Corp.,VC,Failure,Market Cap changes,
-12/27/2005,12/30/2005,Whole Foods Market,WFMI,MBNA Corp.,KRB,M&A,Acquisition by Bank of America,
-1/3/2006,1/4/2006,Estee Lauder,EL,Mercury Interactive,MERQE,Failure,Delisting by Nasdaq,
-1/25/2006,1/31/2006,VeriSign Inc.,VRSN,Reebok Int'l,RBK,M&A,Acquisition by Adidas-Salomon,
-1/25/2006,1/31/2006,Harman Int'l,HAR,Siebel Systems Inc.,SEBL,M&A,Acquisition by Oracle,
-2/21/2006,2/24/2006,Barr Pharmaceuticals Inc.,BRL,Scientific-Atlanta,SFA,M&A,Acquisition by Cisco,
-3/1/2006,3/2/2006,Chesapeake Energy Corp.,CHK,Dana Corp.,DCN,Failure,Market cap changes,
-3/26/2006,3/31/2006,Google Inc.,GOOG,Burlington Resources Inc.,BR,M&A,Acquisition by ConocoPhillips,
-3/28/2006,4/3/2006,Kimco Realty Corp.,KIM,Jefferson-PilotCorp.,JP,M&A,Acquisition by Lincoln National,
-3/28/2006,3/31/2006,Boston Properties,BXP,Cinergy Corp.,CIN,M&A,Acquisition by Duke Energy,
-3/29/2006,3/31/2006,Dean Foods,DF,Maytag Corp.,MYG,M&A,Acquisition by Whirlpool,
-4/11/2006,4/21/2006,Legg Mason,LM,Guidant Co.,GDT,M&A,Acquisition by Boston Scientific,
-4/19/2006,4/19/2006,SanDisk Corp.,SNDK,Chiron Corp.,CHIR,M&A,Acquisition by Novartis,
-5/10/2006,5/17/2006,Embarq Corp.,EQ,Applied Micro Circuits Corp.,AMCC,Failure,Market cap changes,
-5/25/2006,6/1/2006,Juniper Neworks Inc.,JNPR,Albertson's Inc.,ABS,M&A,Acquisition by SuperValu,
-5/31/2006,6/5/2006,Commerce Bancorp,CBH,Engelhard Corp.,EC,M&A,Acquisition by BASF,
-6/22/2006,6/27/2006,CONSOL Energy Inc.,CNX,Knight-Ridder Inc.,KRI,M&A,Acquisition by McClatchy,
-7/11/2006,7/17/2006,Windstream Corp.,WIN,Cooper Tire & Rubber Co.,CTB,Failure,Market cap changes,
-7/24/2006,7/31/2006,Realogy Corp.,H,Gateway Inc.,GTW,Failure,Market cap changes,
-7/24/2006,7/31/2006,Wyndham Worldwide Corp.,WYN,Cendant Corp.,CD,Other,Cendant spins off Wyndham and Realogy,
-8/3/2006,8/10/2006,Chicago Mercantile Exchange Holdings,CME,Kerr-McGee Corp.,KMG,M&A,Acquisition by Anadarko Petroleum,
-9/25/2006,9/29/2006,Western Union Co.,WU,Andrew Corp.,ANDW,Failure,Market cap changes,
-9/27/2006,9/29/2006,Smith International,SII,Golden West Financial,GDW,M&A,Acquisition by Wachovia,
-10/30/2006,11/3/2006,Celgene Corp.,CELG,AmSouth Bancorp,ASO,M&A,Acquisition by Regions Financial,
-11/2/2006,11/9/2006,Fidelity National Information Services,FIS,Louisiana-Pacific Corp.,LPX,Failure,Market cap changes,
-11/6/2006,11/9/2006,CB Richard Ellis Group,CBG,Fisher Scientific,FSH,M&A,Acquisition by Thermo Electron Corp,
-11/13/2006,11/16/2006,Cognizant Technology Solutions,CTSH,Alberto-Culver Co. (old),ACV,Other,Splits up,
-11/15/2006,11/17/2006,Peabody Energy Corp,BTU,HCA Inc.,HCA,M&A,Taken private,
-11/21/2006,12/1/2006,DirecTV Group Inc.,DTV,Freescale Semiconductor Inc.,FSL.B,M&A,Taken private,
-11/22/2006,11/30/2006,IAC/InterActive Corp.,IACI,Lucent Technologies,LU,M&A,Acquisition by Alcatel,
-11/23/2006,11/30/2006,Questar Corp.,STR,North Fork Bancorp. Inc.,NFB,M&A,Acquisition by Capital One Financial,
-12/15/2006,12/19/2006,Terex Corp.,TEX,Navistar International,NAV,Failure,Delisting by NYSE,
-12/20/2006,12/29/2006,Spectra Energy Corp.,SE,Parametric Technology,PMTC,Failure,Market cap changes,
-1/2/2007,1/3/2007,ENSCO International,ESV,BellSouth Corp.,BLS,M&A,Acquisition by AT&T,
-1/3/2007,1/9/2007,AvalonBay Communities,AVB,Symbol Technologies,SBL,M&A,Acquisition by Motorola,
-1/31/2007,2/1/2007,Polo Ralph Lauren Corp.,RL,Comverse Technology,CMVT,Failure,Delisting by Nasdaq,
-2/5/2007,2/14/2007,Hudson City Bancorp.,HCBK,American Power Conversion,APCC,M&A,Acquisition by Schneider Electric,
-2/7/2007,2/21/2007,Integrys Energy Group  Inc.,TEG,Peoples Energy,PGL,M&A,"Acquisition by WPS Resources, which changes its name to Integrys",
-2/7/2007,2/9/2007,Varian Medical Systems,VAR,Equity Office Properties,EOP,M&A,Acquisition by Blackstone Group,
-2/26/2007,3/1/2007,C.H. Robinson Worldwide,CHRW,Health Management Assoc.,HMA,Other,Market cap changes (after payout of special dividend),
-3/12/2007,3/19/2007,Host Hotels & Resorts,HST,Phelps Dodge,PD,M&A,Acquisition by Freeport-McMoRan Copper & Gold,
-3/16/2007,3/20/2007,Developers Diversified Realty,DDR,Caremark Rx Inc.,CMX,M&A,Acquisition by CVS,
-3/22/2007,3/30/2007,Kraft Foods Inc,KFT,Sabre Holding Corp.,TSG,M&A,Taken private,
-3/27/2007,3/28/2007,Abercrombie & Fitch Co.,ANF,Univision Communications,UVN,M&A,Taken private,
-4/2/2007,4/9/2007,Assurant Inc.,AIZ,Realogy Corp.,H,M&A,Taken private,
-5/22/2007,5/30/2007,MEMC Electronic Materials,WFR,Kinder Morgan,KMI,M&A,Taken private,
-5/30/2007,5/31/2007,Precision Castparts,PCP,MedImmune Inc.,MEDI,M&A,Acquisition by AstraZeneca,
-6/21/2007,6/29/2007,Tyco Electronics,TEL,PMC-Sierra,PMCS,Failure,Market cap changes,
-6/21/2007,6/29/2007,Covidien Ltd.,COV,Sanmina-SCI Corp.,SANM,Failure,Market cap changes,
-6/21/2007,6/29/2007,Discover Financial Services,DFS,ADC Telecomm. Inc.,ADCT,Failure,Market cap changes,
-6/25/2007,6/29/2007,General Growth Properties,GGP,Mellon Financial,MEL,M&A,Merger with Bank of New York,
-7/2/2007,7/6/2007,American Capital Strategies,ACAS,Dollar General,DG,M&A,Taken private,
-7/9/2007,7/11/2007,Akamai Technologies,AKAM,Biomet  Inc.,BMET,M&A,Taken private,
-8/16/2007,8/24/2007,Leucadia National Corp.,LUK,Keyspan Energy,KSE,M&A,Acquisition by National Grid Plc,
-8/30/2007,9/7/2007,Microchip Technology,MCHP,Compass Bancshares,CBSS,M&A,Acquisition by Banco Bilbao Vizcaya Argentaria,
-9/24/2007,9/26/2007,Tesoro Petroleum Co.,TSO,Maxim Integrated Products,MXIM,Failure,Delisting by Nasdaq,
-9/24/2007,9/28/2007,Teradata Corp.,TDC,NCR Corp.,NCR,Other,Spins off Teradata,
-9/24/2007,10/1/2007,Expedia Inc.,EXPE,Solectron Corp.,SLR,M&A,Acquisition by Flextronics,
-9/24/2007,9/25/2007,IntercontinentalExchange Inc.,ICE,First Data Corp.,FDC,M&A,Taken private,
-10/1/2007,10/5/2007,Noble Energy  Inc.,NBL,Archstone-Smith Trust,ASN,M&A,Taken private,
-10/8/2007,10/9/2007,Expeditors Int'l.,EXPD,TXU Corp.,TXU,M&A,Taken private,
-10/18/2007,10/26/2007,Titanium Metals Corp.,TIE,Bausch & Lomb Inc.,BOL,M&A,Taken private,
-10/18/2007,10/24/2007,NYSE Euronext,NYX,Hilton Hotels,HLT,M&A,Taken private,
-10/23/2007,10/25/2007,Jacobs Engineering Group,JEC,Avaya Inc.,AV,M&A,Taken private,
-11/1/2007,11/8/2007,Pepco Holdings Inc.,POM,Manor Care Inc.,HCR,M&A,Taken private,
-11/8/2007,11/16/2007,American Tower Corp.,AMT,ALLTEL Corp.,AT,M&A,Taken private,
-11/8/2007,11/15/2007,Manitowoc Co.,MTW,Tektronix Inc.,TEK,M&A,Acquisition by Danaher,
-12/5/2007,12/13/2007,GameStop Corp.,GME,Dow Jones & Co. Inc.,DJ,M&A,Acquisition by News Corp,
-12/19/2007,12/28/2007,Washington Post Co.,WPO,Temple-Inland Inc.,TIN,Other,Splits up,
-12/19/2007,12/31/2007,Total System Services,TSS,Synovus Financial,SNV,Other,Spins out Total System Services,
-12/20/2007,12/20/2007,Range Resources Corp.,RRC,Tribune Co.,TRB,M&A,Taken private,
-1/17/2008,1/28/2008,Cameron International,CAM,Harrah's Entertainment,HET,M&A,Taken private,
-3/20/2008,3/28/2008,Phillip Morris International Inc.,PM,Circuit City Stores Inc.,CC,Failure,Fails to meet consistent profit criteria,
-3/20/2008,3/31/2008,HCP Inc.,HCP,Commerce Bancorp,CBH,M&A,Acquisition by Toronto-Dominion Bank,
-5/22/2008,6/2/2008,Intuitive Surgical Inc.,ISRG,The Bear Stearns Companies Inc.,BSC,M&A,Acquisition by JP Morgan,
-5/27/2008,6/5/2008,Southwestern Energy Co.,SWN,Trane Inc.,TT,M&A,Acquisition by Ingersoll-Rand,
-6/3/2008,6/10/2008,Lorillard Inc.,LO,Ambac Financial Group Inc.,ABK,Failure,Market cap changes,
-6/12/2008,6/20/2008,Massey Energy Co.,MEE,OfficeMax Inc.,OMX,Failure,Market cap changes,
-6/12/2008,6/20/2008,Cabot Oil & Gas Corp.,COG,Brunswick Corp.,BC,Failure,Market cap changes,
-6/24/2008,6/30/2008,Scripps Networks Interactive,SNI,E.W. Scripps,SSP,Other,Splits up,
-6/26/2008,6/30/2008,AK Steel Holding Corp.,AKS,Countrywide Financial Corp.,CFC,M&A,Acquisition by Bank of America,
-7/10/2008,7/17/2008,MasterCard Inc.,MA,ACE Ltd.,ACE,Other,Redomesticates to Switzerland,
-7/24/2008,7/30/2008,DaVita Inc.,DVA,Clear Channel Communications Inc.,CCU,M&A,Taken private,
-8/13/2008,8/20/2008,Invesco Ltd.,IVZ,IAC/InterActiveCorp.,IACI,Other,Splits up,
-8/25/2008,8/26/2008,CF Industries,CF,Electronics Data Systems,EDS,M&A,Acquisition by Hewlett-Packard,
-9/9/2008,9/10/2008,Salesforce.com,CRM,Federal Home Loan Mortgage Corp.,FRE,Failure,Market cap changes (placed into conservatorship),
-9/9/2008,9/10/2008,Fastenal Co.,FAST,Federal National Mortgage Association,FNM,Failure,Market cap changes (placed into conservatorship),
-9/15/2008,9/19/2008,Harris Corp.,HRS,Lehman Brothers Holdings Inc.,LEH,Failure,Bankruptcy,
-9/22/2008,9/26/2008,Amphenol Corp.,APH,Wendy's International Inc.,WEN,Failure,Market cap changes (too small even after acquisition by Triarc),
-9/22/2008,9/22/2008,Pioneer Natural Resources Co.,PXD,Safeco Corp.,SAF,M&A,Acquisition by Liberty Mutual Group,
-9/26/2008,9/29/2008,Flowserve Corp.,FLS,Washington Mutual Inc.,WM,Failure,Placed into receivership,
-9/29/2008,10/3/2008,Dr. Pepper Snapple Group Inc.,DPS,Wm. Wrigley Jr. Company,WWY,M&A,Acquisition by Mars,
-10/16/2008,10/21/2008,NASDAQ OMX Group Inc.,NDAQ,Dillard's Inc.,DDS,Failure,Market cap changes,
-10/28/2008,10/30/2008,Wisconsin Energy Corp.,WEC,MGIC Investment,MTG,Failure,Market cap changes,
-10/30/2008,11/5/2008,J.M. Smucker Co.,SJM,Terex Corporation,TEX,Failure,Market cap changes,
-11/7/2008,11/10/2008,People's United Financial Inc.,PBCT,Unisys Corp.,UIS,Failure,Market cap changes,
-11/10/2008,11/13/2008,DENTSPLY International Inc.,XRAY,Hercules Inc.,HPC,Failure,Market cap changes (too small even after acquisition by Ashland),
-11/10/2008,11/13/2008,Wynn Resorts Ltd.,WYNN,Ashland Inc.,ASH,Failure,Market cap changes (too small even after it acquired Hercules),
-11/11/2008,11/12/2008,Cephalon Inc.,CEPH,General Growth Properties Inc.,GGP,Failure,Market cap changes,
-11/17/2008,11/21/2008,Life Technologies Corp.,LIFE,Applied Biosystems Inc.,ABI,M&A,Acquisition by Invitrogen forms Life Technologies,
-11/17/2008,11/18/2008,Stericycle Inc.,SRCL,Anheuser-Busch,BUD,M&A,Acquisition by InBev,
-11/26/2008,12/1/2008,The Dun & Bradstreet Corp.,DNB,Liz Claiborne Inc.,LIZ,Failure,Market cap changes,
-11/26/2008,12/3/2008,Republic Services Inc.,RSG,Allied Waste Industries Inc.,AW,M&A,Acquisition by Republic Services,
-12/11/2008,12/18/2008,Equitable Resources Inc.,EQT,Transocean Inc.,RIG,Other,Redomesticates to Switzerland,
-12/18/2008,12/22/2008,McAfee Inc.,MFE,Barr Pharmaceuticals Inc.,BRL,M&A,Acquisition by Teva,
-12/23/2008,12/31/2008,FLIR Systems Inc,FLIR,National City Corp.,NCC,M&A,Acquisition by PNC Financial Services Group,
-12/23/2008,12/31/2008,Owens-Illinois Inc,OI,Wachovia Corp. (New),WB,M&A,Acquisition by Wells Fargo,
-12/23/2008,12/31/2008,SCANA Corp,SCG,Merrill Lynch,MER,M&A,Acquisition by Bank of America,
-12/29/2008,1/5/2009,Iron Mountain Inc.,IRM,UST Inc.,UST,M&A,Acquisition by Altria,
-1/22/2009,1/29/2009,Health Care REIT,HCN,Sovereign Bancorp.,SOV,M&A,Acquisition by Banco Santander,
-2/13/2009,2/25/2009,Diamond Offshore Drilling Inc.,DO,Weatherford International Ltd.,WFT,Other,Redomesticates to Switzerland,
-2/24/2009,3/3/2009,Ventas Inc.,VTR,Jones Apparel Group Inc.,JNY,Failure,Market cap changes,
-2/24/2009,3/3/2009,Hormel Foods Corp.,HRL,American Capital Ltd.,ACAS,Failure,Market cap changes,
-3/5/2009,3/16/2009,Northeast Utilities,NU,Tyco International Ltd.,TYC,Other,Redomesticates to Switzerland,
-3/18/2009,3/27/2009,Time Warner Cable Inc.,TWC,Developers Diversified Realty Corp.,DDR,Failure,Market cap changes,
-3/18/2009,3/26/2009,O'Reilly Automotive Inc.,ORLY,Noble Corp.,NE,Other,Redomesticates to Switzerland,
-3/25/2009,4/1/2009,Denbury Resources Inc.,DNR,Rohm and Haas Co.,ROH,M&A,Acquisition by Dow Chemical,
-5/21/2009,6/30/2009,Western Digital,WDC,Embarq Corp.,EQ,M&A,Acquisition by CenturyTel,
-5/28/2009,6/4/2009,FMC Technologies Inc.,FTI,Covidien Ltd.,COV,Other,Redomesticates to Ireland,
-6/1/2009,6/2/2009,DeVry Inc.,DV,General Motors Corp.,GM,Failure,Bankruptcy,
-6/4/2009,6/30/2009,Quanta Services Inc.,PWR,Ingersoll-Rand Company Ltd.,IR,Other,Redomesticates to Ireland,
-6/22/2009,6/25/2009,MetroPCS Communications Inc.,PCS,Tyco Electronics Ltd.,TEL,Other,Redomesticates to Switzerland,
-7/17/2009,7/24/2009,Red Hat Inc.,RHT,CIT Group Inc.,CIT,Failure,Market cap changes,
-8/11/2009,8/18/2009,FMC Corp.,FMC,Centex Corp.,CTX,M&A,Acquisition by Pulte Homes,
-8/24/2009,8/31/2009,CareFusion Corp.,CFN,The Manitowoc Company Inc.,MTW,Failure,Market cap changes,
-8/28/2009,9/8/2009,Airgas Inc,ARG,Cooper Industries Ltd.,CBE,Other,Redomesticates to Ireland,
-10/1/2009,10/15/2009,First Solar Inc,,Wyeth,,M&A,Acquisition by Pfizer,
-10/29/2009,11/3/2009,Priceline.com,,Schering-Plough Corp.,,M&A,Acquisition by Merck & Co.,
-12/11/2009,12/18/2009,Cliffs Natural Resources Inc,,KB Home,,Failure,Market cap changes,
-12/11/2009,12/18/2009,Mead Johnson Nutrition Co,,MBIA Inc.,,Failure,Market cap changes,
-12/11/2009,12/18/2009,Ross Stores Inc,,Dynegy Inc.,,Failure,Market cap changes,
-12/11/2009,12/18/2009,SAIC Inc,,Convergys Corp.,,Failure,Market cap changes,
-12/11/2009,12/18/2009,Visa Inc,,Ciena Corp.,,Failure,Market cap changes,
-12/15/2009,12/22/2009,Roper Industries Inc,,ENSCO Int'l,,Other,Redomesticates to U.K.,
-1/21/2010,1/28/2010,NRG Energy,,Sun Microsystems Inc,,M&A,Acquisition by Oracle,
-1/26/2010,2/12/2010,Berkshire Hathaway B,,Burlington Northern Santa Fe Co,,M&A,Acquisition by Berkshire Hathaway,
-1/29/2010,2/8/2010,Urban Outfitters,,Affiliated Computer Services,,M&A,Acquisition by Xerox,
-2/16/2010,2/26/2010,Discovery Communications Inc,,Pepsi Bottling Group Inc,,M&A,Acquisition by PepsiCo,
-2/22/2010,2/26/2010,Helmerich & Payne Inc,,IMS Health Inc,,M&A,Taken private,
-3/3/2010,3/12/2010,ONEOK Inc,,Black & Decker Corp,,M&A,Acquisition by The Stanley Works,
-3/18/2010,4/29/2010,Cerner Corp.,,BJ Services Company,,M&A,Acquisition by Baker Hughes Inc.,
-6/22/2010,6/25/2010,"CarMax, Inc.",,XTO Energy Inc.,,M&A,Acquisition by ExxonMobil Inc.,
-6/23/2010,6/30/2010,QEP Resources Inc,,Questar Corp.,,Other,Spins off QEP Resources,
-7/8/2010,7/14/2010,Ace Limited,,Millipore Inc.,,M&A,Acquisition by Merck KGaA,
-8/19/2010,8/26/2010,Tyco International Ltd.,,Smith International Inc.,,M&A,Acquisition by Schlumberger Ltd.,
-11/10/2010,11/16/2010,Ingersoll-Rand Plc,,Pactiv Corporation,,M&A,Acquisition by Reynolds Group Holdings,
-12/9/2010,12/17/2010,F5 Networks Inc.,,The New York Times Co.,,Failure,Market cap changes,
-12/9/2010,12/17/2010,Netflix Inc.,,Office Depot Inc.,,Failure,Market cap changes,
-12/9/2010,12/17/2010,Newfield Exploration Co.,,Eastman Kodak Co.,,Failure,Market cap changes,
-12/9/2010,12/17/2010,Cablevision Systems Corp.,,King Pharmaceuticals Inc.,,M&A,Acquisition by Pfizer Inc.,
-12/22/2010,1/3/2011,"Motorola Mobility Holdings, Inc",,Meredith Corp,,Failure,Market cap changes,
-1/11/2011,1/14/2011,Noble Corp,,QLogic Corp,,Failure,Market cap changes,
-1/26/2011,2/28/2011,Covidien Plc,,McAfee Inc.,,M&A,Acquisition by Intel Corp.,
-2/16/2011,2/25/2011,Joy Global Inc.,,Allegheny Energy Inc.,,M&A,Acquisition by First Energy,
-3/24/2011,3/31/2011,Edwards Lifesciences,,Qwest Communications,,M&A,Acquisition by CenturyLink,
-3/29/2011,4/1/2011,BlackRock,,Genzyme Corp.,,M&A,Acquisition by Sanofi-Aventis,
-4/20/2011,4/27/2011,Chipotle,,"Novell, Inc.",,M&A,Taken private,
-5/24/2011,6/1/2011,"Alpha Natural Resources, Inc.",,Massey Energy Company,,M&A,Acquisition by Alpha Natural Resources,
-5/26/2011,6/2/2011,ProLogis Inc.,,ProLogis,,M&A,Acquisition by AMB Property (then renamed ProLogis Inc.),
-6/23/2011,6/30/2011,Marathon Petroleum Corp,,RadioShack Corp.,,Failure,Market cap changes,
-6/27/2011,7/5/2011,Accenture plc,,Marshall & Ilsley Corp.,,M&A,Acquisition by Bank of Montreal,
-9/21/2011,9/23/2011,The Mosaic Company,,National Semiconductor Corp.,,M&A,Acquisition by Texas Instruments,
-10/11/2011,10/14/2011,TE Connectivity Ltd.,,Cephalon Inc.,,M&A,Acquisition by Teva Pharmaceutical Industries,
-10/24/2011,10/31/2011,Xylem Inc.,,ITT Corp.,,Other,Spins off Xylem,
-11/18/2011,11/22/2011,Cooper Industries,,Janus Capital Group,,Failure,Market cap changes,
-12/8/2011,12/16/2011,BorgWarner Inc.,,AK Steel Holding Corp.,,Failure,Market cap changes,
-12/8/2011,12/16/2011,Perrigo Co.,,Monster Worldwide Inc.,,Failure,Market cap changes,
-12/8/2011,12/16/2011,Dollar Tree Inc.,,MEMC Electronic Materials Inc.,,Failure,Market cap changes,
-12/8/2011,12/12/2011,AGL Resources Inc.,,Nicor Inc.,,M&A,Acquisition by AGL Resources,
-12/14/2011,12/20/2011,TripAdvisor Inc.,,Tellabs Inc.,,Failure,Market cap changes,
-12/22/2011,12/30/2011,WPX Energy Inc.,,Compuware Corp,,Failure,Market cap changes,
-3/12/2012,3/13/2012,Crown Castle International Corp.,,Constellation Energy Group,,M&A,Acquisition by Exelon Corp.,
-4/2/2012,4/3/2012,"Fossil, Inc.",,Medco Health Solutions Inc.,,M&A,Acquisition by Express Scripts,
-4/23/2012,4/23/2012,Phillips 66,,Supervalu Inc.,,Failure,Market cap changes,
-5/10/2012,6/5/2012,Lam Research,,Novellus Systems,,M&A,Acquisition by Lam Research,
-5/17/2012,5/24/2012,Kinder Morgan,,El Paso Corp.,,M&A,Acquisition by Kinder Morgan,
-5/21/2012,5/24/2012,Alexion Pharmaceuticals,,Motorola Mobility,,M&A,Acquisition by Google,
-6/21/2012,6/29/2012,Monster Beverage,,Sara Lee Corp.,,Other,Splits up,
-6/25/2012,6/29/2012,Seagate Technology,,Progress Energy Inc,,M&A,Acquisition by Duke Energy,
-7/26/2012,7/30/2012,Ensco plc,,Goodrich Corporation,,M&A,Acquisition by United Technologies,
-8/29/2012,9/4/2012,LyondellBasell,,Sears Holdings Corporation,,Other,Below public float threshold,
-9/24/2012,10/1/2012,ADT Corp,,Lexmark Int'l Inc,,Failure,Market cap changes,
-9/24/2012,9/28/2012,Pentair Ltd.,,"DeVry, Inc.",,Failure,Market cap changes,
-9/25/2012,10/1/2012,Kraft Foods Group,,Alpha Natural Resources,,Failure,Market cap changes,
-10/1/2012,10/4/2012,"PetSmart, Inc.",,Sunoco Inc.,,M&A,Acquisition by Energy Transfer Partners,
-11/26/2012,11/30/2012,Dollar General,,Cooper Industries,,M&A,Acquisition by Eaton Corp.,
-12/5/2012,12/11/2012,Garmin Ltd.,,R.R. Donnelley,,Failure,Market cap changes,
-12/18/2012,12/21/2012,Delphi Automotive,,Titanium Metals,,M&A,Acquisition by Precision Castparts,
-12/20/2012,12/31/2012,AbbVie Inc.,,Federated Investors Inc B,,Failure,Market cap changes,
-2/7/2013,2/15/2013,PVH Corp,,Big Lots Inc,,Failure,Market cap changes,
-4/24/2013,4/30/2013,Regeneron Pharmaceuticals Inc,,Metropcs Communications Inc,,M&A,Merger with T-Mobile USA,
-5/3/2013,5/8/2013,Macerich Co,,Coventry Health Care Inc,,M&A,Acquisition by Aetna,
-5/16/2013,5/23/2013,Kansas City Southern Inc,,Dean Foods Co,,Other,Spins off WhiteWave,
-6/3/2013,6/6/2013,General Motors Company,,Heinz H.J. Co,,M&A,Taken private,
-6/14/2013,6/21/2013,Zoetis Inc,,First Horizon National Corp,,Failure,Market cap changes,
-6/20/2013,6/28/2013,News Corporation Class A,,Apollo Group Inc,,Failure,Market cap changes,
-7/1/2013,7/8/2013,Nielsen Holdings NV,,Sprint Nextel Corp,,Other,Deal results in public float below threshold,
-9/7/2013,9/10/2013,Delta Air Lines,,BMC Software Inc,,M&A,Taken private,
-9/11/2013,9/20/2013,Vertex Pharmaceuticals Inc,,Advanced Micro Devices,,Failure,Market cap changes,
-9/11/2013,9/20/2013,AMETEK Inc,,SAIC Inc,,Failure,Market cap changes,
-10/21/2013,10/28/2013,Transocean Ltd,,"Dell, Inc.",,M&A,Taken private,
-10/28/2013,11/1/2013,Michael Kors Holdings Ltd,,NYSE Euronext,,M&A,Acquisition by NYSE Euronext,
-11/22/2013,11/29/2013,Allegion plc,,Penney J.C. Inc,,Failure,Market cap changes,
-12/4/2013,12/9/2013,General Growth Properties Inc,,Molex Inc,,M&A,Taken private,
-12/11/2013,12/20/2013,Alliance Data Systems Corp,,Abercrombie & Fitch Company,,Failure,Market cap changes,
-12/11/2013,12/20/2013,Mohawk Industries Inc,,JDS Uniphase Corp,,Failure,Market cap changes,
-12/11/2013,12/20/2013,Facebook Inc,,Teradyne Inc,,Failure,Market cap changes,
-1/16/2014,1/23/2014,Tractor Supply Company,,Life Technologies Corporation,,M&A,Acquired by Thermo Fisher Scientific,
-3/11/2014,4/3/2014,Google Inc. Class C,,N/A,,N/A,N/A,
-3/14/2014,3/21/2014,"Keurig Green Mountain, Inc.",,"WPX Energy, Inc.",,Failure,Market cap changes,
-3/26/2014,4/1/2014,"Essex Property Trust, Inc.",,Cliffs Natural Resources Inc.,,Failure,Market cap changes,
-4/24/2014,4/30/2014,"Under Armour, Inc.",,"Beam, Inc.",,M&A,Acquisition by Suntory Holdings,
-4/24/2014,4/30/2014,Navient Corp,,SLM Corp,,Other,Splits up,
-5/5/2014,5/7/2014,Avago Technologies Limited,,LSI Corporation,,M&A,Acquired by Avago Technologies,
-6/12/2014,6/20/2014,Cimarex Energy Co.,,International Game Technology,,Failure,Market cap changes,
-6/24/2014,6/30/2014,"Affiliated Managers Group, Inc.",,"Forest Laboratories, Inc.",,M&A,Acquisition by Actavis,
-6/27/2014,7/1/2014,"Martin Marietta Materials, Inc.",,United States Steel Corporation,,Failure,Market cap changes,
-7/30/2014,8/6/2014,"Discovery Communications, Class C",,N/A,,N/A,N/A,
-8/14/2014,8/18/2014,Mallinckrodt Plc,,Rowan Cos. Plc,,Other,Does not meet new market cap criteria,
-9/12/2014,9/19/2014,"United Rentals, Inc.",,Graham Holdings Co.,,Other,Does not meet new market cap criteria,
-9/12/2014,9/19/2014,"Universal Health Services, Class B",,Peabody Energy Corporation,,Failure,Market cap changes,
-10/29/2014,11/4/2014,"Level 3 Communications, Inc.",,"Jabil Circuit, Inc.",,Other,Does not meet new market cap criteria,
-12/1/2014,12/4/2014,Royal Caribbean Cruises Ltd.,,"Bemis Company, Inc.",,Other,Does not meet new market cap criteria,
-1/21/2015,1/26/2015,Endo International Plc,,Covidien Plc,,M&A,Acquisition by Medtronic,Acquisition by Medtronic
-1/23/2015,1/26/2015,"HCA Holdings, Inc.",,Safeway Inc.,,M&A,Taken private,Taken private
-3/9/2015,3/11/2015,"Skyworks Solutions, Inc.",,"PetSmart, Inc.",,M&A,Taken private,Taken private
-3/13/2015,3/20/2015,SL Green Realty Corp.,,Nabors Industries Ltd.,,Failure,Market cap changes,Market cap changes
-3/13/2015,3/20/2015,Hanesbrands Inc.,,"Avon Products, Inc.",,Failure,Market cap changes,Market cap changes
-3/13/2015,3/20/2015,Equinix Inc,,Denbury Resources Inc.,,Failure,Market cap changes,Market cap changes
-3/13/2015,3/17/2015,"Henry Schein, Inc.",,CareFusion Corporation,,M&A,"Acquisition by Becton, Dickinson and Company","Acquisition by Becton, Dickinson and Company"
-3/17/2015,3/20/2015,"American Airlines Group, Inc.",,"Allergan, Inc.",,M&A,Acquisition by Actavis,Acquisition by Actavis
-3/27/2015,4/6/2015,Realty Income Corporation,,"Windstream Holdings, Inc.",,Other,Spins off assets,Spins off assets
-6/9/2015,6/11/2015,"Qorvo, Inc.",,"Lorillard, Inc.",,M&A,Acquisition by  Reynolds American,Acquisition by  Reynolds American
-6/19/2015,6/30/2015,"Baxalta, Inc.",,"QEP Resources, Inc.",,Failure,Market cap changes,Market cap changes
-6/19/2015,6/19/2015,WestRock Co.,,MeadWestvaco Corporation,,Other,Merger with Rock-Tenn creates WestRock Co.,Merger with Rock-Tenn creates WestRock Co.
-6/23/2015,7/1/2015,Columbia Pipeline Group Inc,,Allegheny Technologies Incorporated,,Failure,Market cap changes,Market cap changes
-6/26/2015,6/30/2015,"J.B. Hunt Transport Services, Inc.",,"Integrys Energy Group, Inc.",,M&A,Acquisition by Wisconsin Energy Corp.,Acquisition by Wisconsin Energy Corp.
-7/6/2015,7/8/2015,"Advance Auto Parts, Inc.",,"Family Dollar Stores, Inc.",,M&A,Acquisition by Dollar Tree,Acquisition by Dollar Tree
-7/14/2015,7/17/2015,PayPal Holdings Inc,,Noble Corporation plc,,Failure,Market cap changes,Market cap changes
-7/24/2015,7/28/2015,Signet Jewelers Limited,,DIRECTV,,M&A,Acquisition by AT&T,Acquisition by AT&T
-8/10/2015,9/18/2015,"Twenty-First Century Fox, Class B",,N/A,,N/A,N/A,N/A
-8/10/2015,9/18/2015,News Corporation Class B,,N/A,,N/A,N/A,N/A
-8/10/2015,9/18/2015,Comcast Corporation Class A Special,,N/A,,N/A,N/A,N/A
-8/27/2015,8/28/2015,Activision Blizzard Inc,,Pall Corporation,,M&A,Acquisition by Danaher,Acquisition by Danaher
-8/27/2015,9/2/2015,"United Continental Holdings, Inc.",,"Hospira, Inc.",,M&A,Acquisition by Pfizer,Acquisition by Pfizer
-9/30/2015,10/7/2015,Verisk Analytics Inc,,Joy Global Inc.,,Failure,Market cap changes,Market cap changes
-10/27/2015,10/30/2015,Hewlett Packard Enterprise Co.,,"Hudson City Bancorp, Inc.",,M&A,Acquisition by M&T Bank,Acquisition by M&T Bank
-11/9/2015,11/17/2015,Synchrony Financial,,"Genworth Financial, Inc. Class A",,Failure,Market cap changes,Market cap changes
-11/12/2015,11/18/2015,"Illumina, Inc.",,Sigma-Aldrich Corporation,,M&A,Acquisition by Merck KGaA,Acquisition by Merck KGaA
-11/23/2015,11/27/2015,"CSRA, Inc.",,Computer Sciences Corporation,,Other,Spins off SCRA,Spins off SCRA
-12/22/2015,12/28/2015,"Church & Dwight Co., Inc.",,Altera Corporation,,M&A,Acquisition by Intel,Acquisition by Intel
-12/28/2015,1/4/2016,Willis Group Holdings,,Fossil Group Inc.,,Failure,Market cap changes,
-1/13/2016,1/15/2016,Extra Space Storage Inc.,,Chubb Corporation,,M&A,Acquisition by ACE Ltd.,
-1/22/2016,1/29/2016,Federal Realty Investment Trust,,Broadcom Corporation Class A,,M&A,Acquisition by Avago Technologies Ltd.,
-1/26/2016,1/29/2016,"Citizens Financial Group, Inc.",,Precision Castparts Corp.,,M&A,Acquisition by Berkshire Hathaway,
-2/16/2016,2/19/2016,Concho Resources Inc.,,"Plum Creek Timber Company, Inc.",,M&A,Acquisition by Weyerhaeuser Co.,
-3/1/2016,3/3/2016,"American Water Works Company, Inc.",,CONSOL Energy Inc.,,Failure,Market cap changes,
-3/24/2016,3/29/2016,Centene Corporation,,Ensco plc,,Failure,Market cap changes,
-3/24/2016,3/29/2016,"Hologic, Inc.",,"Pepco Holdings, Inc.",,M&A,Acquisition by Exelon Corp.,
-3/28/2016,4/1/2016,"Foot Locker, Inc.",,Cameron International Corporation,,M&A,Acquisition by Schlumberger Ltd.,
-4/7/2016,4/15/2016,"Ulta Salon, Cosmetics & Fragrance",,Tenet Healthcare Corporation,,Failure,Market cap changes,
-4/8/2016,4/8/2016,"Under Armour, Inc. Class C",,N/A,,N/A,N/A,
-4/19/2016,4/22/2016,Global Payments Inc.,,GameStop Corp. Class A,,Failure,Market cap changes,
-4/26/2016,5/2/2016,"Acuity Brands, Inc.",,ADT Corporation,,M&A,Acquisition by Apollo Global Management,
-5/3/2016,5/4/2016,"UDR, Inc.",,"Keurig Green Mountain, Inc.",,M&A,Acquisition by JAB Holding Company,
-5/10/2016,5/12/2016,"Alaska Air Group, Inc.",,SanDisk Corporation,,M&A,Acquisition by Western Digital Corp.,
-5/13/2016,5/17/2016,"Digital Realty Trust, Inc.",,Time Warner Cable Inc.,,M&A,Acquisition by Charter Communications,
-5/18/2016,5/20/2016,LKQ Corporation,,"Airgas, Inc.",,M&A,Acquisition by Air Liquide SA,
-5/24/2016,5/27/2016,Arthur J. Gallagher & Co.,,Coca-Cola Enterprises,,M&A,"Merges w/ foreign Coca-Cola bottlers, resulting in foreign domicile",
-5/27/2016,6/2/2016,TransDigm Group Incorporated,,"Baxalta, Inc. Class A",,M&A,Acquisition by Shire plc,
-6/21/2016,6/23/2016,Fortune Brands Home & Security,,Cablevision Systems Corporation,,M&A,Acquisition by Altice NV,
-6/23/2016,6/30/2016,Albemarle Corporation,,"TECO Energy, Inc.",,M&A,Acquisition by Emera Inc.,
-6/23/2016,7/1/2016,Fortive Corp.,,Columbia Pipeline Group Inc,,M&A,Acquisition by Columbia Pipeline Group Inc.,
-6/29/2016,6/30/2016,Alliant Energy Corp,,"AGL Resources, Inc.",,M&A,Acquisition by Southern Co,
-8/25/2016,9/2/2016,Mettler-Toledo International Inc.,,Johnson Controls Inc.,,M&A,Merger with Tyco International forms Johnson Controls International,
-8/25/2016,9/2/2016,Johnson Controls International,,Tyco International PLC,,M&A,Merger with Johnson Controls forms Johnson Controls International,
-8/31/2016,9/7/2016,"Charter Communications, Inc. Class A",,EMC Corporation,,M&A,Acquisition by Dell Corp.,
-9/20/2016,9/22/2016,"Cooper Companies, Inc.",,Starwood Hotels & Resorts Worldwide,,M&A,Acquisition by Marriott International Inc.,
-9/27/2016,9/30/2016,Coty Inc. Class A,,"Diamond Offshore Drilling, Inc.",,Failure,Market cap changes,
-10/24/2016,10/31/2016,Arconic Inc.,,Alcoa Inc.,,Other,Alcoa splits into Arconic and Alcoa,
-11/29/2016,12/1/2016,Envision Healthcare Corp.,,"Legg Mason, Inc.",,Failure,Market cap changes,
-11/29/2016,12/1/2016,Mid-America Apartment Communities,,"Owens-Illinois, Inc.",,Failure,Market cap changes,
+Announced,Implemented,Addition,Addition Ticker,Removal,Removal Ticker,Removal Type,Reason for Removal
+12/29/1999,1/5/2000,Young & Rubicam,YNR,General Instrument Corp,GIC,M&A,Acquisition by Motorola
+1/24/2000,1/28/2000,Harley-Davidson,HDI,Fleetwood Enterprises,FLE,Failure,Lack of representation
+1/24/2000,1/28/2000,"Biogen, Inc",BGEN,Foster Wheeler,FWC,Failure,Lack of representation
+1/26/2000,1/28/2000,Conexant Systems,CNXT,Consolidated Natural Gas,CNG,M&A,Bought by Dominion Resources
+3/8/2000,3/15/2000,Sabre Holdings Corp,TSG,Service Corp. International,SRV,Failure,Lack of representation
+3/27/2000,3/31/2000,Linear Technology Corp,LLTC,"Pharmacia & Upjohn, Inc",PNU,M&A,Merger with Monsanto
+3/29/2000,3/31/2000,Veritas Software,VRTS,Pep Boys,PBY,Failure,Lack of representation
+4/12/2000,4/17/2000,Altera Corp,ALTR,Atlantic Richfield,ARC,M&A,Acquisition by BP Amoco
+4/12/2000,6/5/2000,Convergys Corp,CVG,Times Mirror,TMC,M&A,Acquisition by Tribune Company
+5/1/2000,5/4/2000,"Siebel Systems, Inc",SEBL,CBS Corp,CBS,M&A,Acquisition by Viacom
+5/2/2000,5/9/2000,Maxim Integrated Products,MXIM,Jostens Inc,JOS,M&A,Acquisition by Investcorp
+5/3/2000,5/4/2000,Sapient Corp,SAPE,Reynolds Metals,RLM,M&A,Acquisition by Alcoa
+5/11/2000,6/16/2000,MedImmune Inc,MEDI,Central & South West,CSR,M&A,Acquisition by American Electric Power
+5/25/2000,6/2/2000,Agilent Technologies,A,NACCO Ind. Cl. A,NC,Failure,Lack of representation
+5/25/2000,6/21/2000,Sanmina Corp,SANM,Warner-Lambert,WLA,M&A,Acquisition by Pfizer
+5/26/2000,5/31/2000,American Power Conversion,APCC,Mirage Resorts,MIR,M&A,Acquisition by MGM Grand
+6/5/2000,6/7/2000,Starbucks Corp,SBUX,Shared Medical Systems,SMS,M&A,Acquisition by Siemens
+6/13/2000,6/20/2000,Tiffany & Co,TIF,Silicon Graphics,SGI,Other,Spins off large interest in MIPS Technologies
+6/13/2000,6/16/2000,Novellus Systems,NVLS,Champion International,CHA,M&A,Acquisition by International Paper
+6/15/2000,6/16/2000,Charter One Financial,CF,MediaOne Group Inc,UMG,M&A,Acquisition by AT&T Corp
+6/19/2000,6/30/2000,Broadcom Corporation,BRCM,GTE Corp,GTE,M&A,Merger with Bell Atlantic
+6/21/2000,6/28/2000,Visteon Corp,VC,IKON Office Solutions,IKN,Failure,Lack of representation
+6/21/2000,6/28/2000,Mercury Interactive,MERQ,Milacron Inc,MZ,Failure,Market cap changes
+6/27/2000,6/30/2000,Qwest Communications Int'l,Q,US West Inc,USW,M&A,Merger with Qwest
+7/6/2000,7/12/2000,Stilwell Financial,SV,Kansas City Southern Ind,KSU,Other,Spins off Stilwell Financial
+7/6/2000,7/14/2000,"CIT Group, Inc",CIT,Union Pacific Resources Group,UPR,M&A,Acquisition by Anadarko Petroleum
+7/19/2000,7/26/2000,JDS Uniphase Corp,JDSU,Rite Aid,RAD,Failure,Lack of representation
+7/20/2000,7/27/2000,Palm Inc,PALM,3Com Corp,COMS,Other,Spins off large interest in Palm
+8/7/2000,8/21/2000,KeySpan Corp,KSE,New Century Energies,NCE,M&A,Acquisition by Northern States Power
+8/23/2000,8/29/2000,Devon Energy Corp,DVN,Great A & P,GAP,Failure,Market cap changes
+9/25/2000,9/29/2000,Avaya Inc.,AV,Owens Corning,OWC,Failure,Lack of representation
+9/25/2000,10/2/2000,Dynegy Inc,DYN,BestFoods Inc,BFO,M&A,Acquisition by Unilever
+9/27/2000,10/3/2000,King Pharmaceuticals,KG,Young & Rubicam,YNR,M&A,Acquisition by WPP Group
+10/3/2000,10/18/2000,Nabors Industries,NBR,Mallinckrodt Inc,MKG,M&A,Acquisition by Tyco International
+10/12/2000,10/16/2000,Power-One Inc,PWER,Unicom Corp,UCM,M&A,Acquisition by PECO Energy
+10/16/2000,10/23/2000,BroadVision Inc,BVSN,PaineWebber Group,PWJ,M&A,Acquisition by UBS
+10/25/2000,11/1/2000,NiSource Inc,NI,Columbia Energy Group,CG,M&A,Acquisition by NiSource
+10/31/2000,11/1/2000,EOG Resources,EOG,Eastern Enterprises,EFU,M&A,Acquisition by KeySpan Energy
+11/14/2000,11/21/2000,Forest Laboratories,FRX,Seagate Technology,SEG,M&A,Acquisition by Veritas
+11/15/2000,11/16/2000,Starwood Hotels & Resorts,HOT,Armstrong World,ACK,Failure,Lack of representation
+11/20/2000,11/24/2000,Chiron Corp,CHIR,Fort James Corp,FJ,M&A,Acquisition by Georgia Pacific
+11/27/2000,11/30/2000,Calpine Corp,CPN,Florida Progress,FPC,M&A,Acquisition by CP&L Energy
+11/29/2000,12/11/2000,MetLife Inc,MET,Seagram Co. Ltd,VO,M&A,Acquisition by Vivendi
+12/1/2000,12/1/2000,Robert Half International,RHI,Associates First Capital,AFS,M&A,Acquisition by Citigroup
+12/4/2000,12/8/2000,Allegheny Energy Inc,AYE,Bethlehem Steel,BS,Failure,Lack of representation
+12/4/2000,12/8/2000,Ambac Financial Group,ABK,Crown Cork & Seal,CCK,Failure,Lack of representation
+12/4/2000,12/8/2000,"Intuit, Inc",INTU,Owens-Illinois,OI,Failure,Lack of representation
+12/4/2000,12/8/2000,Symbol Technologies,SBL,Grace (W.R.) & Co. (New),GRA,Failure,Lack of representation
+12/5/2000,12/11/2000,QLogic Corp,QLGC,Polaroid Corp,PRD,Failure,Market cap changes
+12/5/2000,12/11/2000,Stryker Corp,SYK,Russell Corp,RML,Failure,Market cap changes
+12/5/2000,12/11/2000,Vitesse Semiconductor,VTSS,Springs Industries Inc,SMI,Failure,Market cap changes
+12/7/2000,12/13/2000,Aetna Inc. (New),AET,Aetna Inc. (Old),AET,Other,"Aetna (old) sells financials business, spins off U.S. healthcare division, which becomes Aetna (new)"
+12/8/2000,12/12/2000,Kinder Morgan Inc,KMI,Nabisco Group Hldgs,NGH,M&A,Acquisition by RJ Reynolds
+12/12/2000,12/21/2000,Fluor Corp.,FLR,Massey Energy,MEE,Other,Spins off Fluor
+12/19/2000,12/29/2000,Applied Micro Circuits,AMCC,Morgan (J.P.) & Co,JPM,M&A,Acquisition by Chase Manhattan
+12/19/2000,1/12/2001,Noble Drilling Corp,NE,Time Warner Inc,TWX,M&A,Acquisition by AOL
+12/27/2000,1/30/2001,Jabil Circuit,JBL,Coastal Corp,CGP,M&A,Acquisition by El Paso
+2/5/2001,2/7/2001,Univision Communications,UVN,Union Carbide,UK,M&A,Acquisition by Dow Chemical
+2/21/2001,2/26/2001,Citizens Communications,CZN,U.S. Bancorp,USB,M&A,Acquisition by Firstar
+2/27/2001,2/28/2001,Cintas Corporation,CTAS,Summit Bancorp,SUB,M&A,Acquisition by FleetBoston Financial Corp.
+3/26/2001,3/30/2001,Concord EFS Inc,CEFT,Ceridian Corp,CEN,Other,Splits into Ceridian and Arbitron
+3/27/2001,4/2/2001,Mirant Corporation,MIR,Briggs & Stratton,BGG,Failure,Market cap changes
+3/27/2001,3/30/2001,FIserv Inc,FISV,Old Kent Financial,OK,M&A,Acquisition by Fifth Third Bancorp
+5/7/2001,5/11/2001,Pepsi Bottling Group,PBG,"Adaptec, Inc",ADPT,Other,Spins off Roxio
+5/22/2001,6/4/2001,TMP Worldwide,TMPW,"CIT Group, Inc",CIT,M&A,Acquisition by Tyco International
+5/30/2001,6/27/2001,John Hancock Financial,JHF,Harcourt General Inc,H,M&A,Tender offer from Reed Elsevier
+6/19/2001,6/22/2001,Zions Bancorp,ZION,ALZA Corp. Cl. A,AZA,M&A,Acquisition by Johnson & Johnson
+6/25/2001,6/29/2001,Rockwell Collins,COL,Longs Drug Stores,LDG,Failure,Market cap changes
+6/27/2001,7/6/2001,AT&T Wireless Services,AWE,Potlatch Corp,PCH,Failure,Market cap changes
+7/30/2001,8/3/2001,Family Dollar Stores,FDO,Cabletron Systems,CS,Other,Spins off large interest in Riverstone Networks
+7/31/2001,8/6/2001,Zimmer Holdings,ZMH,Timken Co,TKR,Failure,Market cap changes
+8/1/2001,8/2/2001,PMC-Sierra Inc,PMCS,Quaker Oats,OAT,M&A,Acquisition by PepsiCo
+8/22/2001,8/30/2001,CIENA Corp,CIEN,American General,AGC,M&A,Acquisition by AIG
+8/27/2001,8/29/2001,AmerisourceBergen Corp,ABC,ONEOK Inc,OKE,Failure,Market cap changes
+8/27/2001,9/4/2001,XL Capital,XL,Wachovia Corp,WB,M&A,Acquisition by First Union Corp
+8/29/2001,8/31/2001,International Game Technology,IGT,BroadVision Inc,BVSN,Failure,Lack of representation
+9/17/2001,9/20/2001,Immunex Corp,IMNX,Tosco Corp,TOS,M&A,Acquisition by Philips Petroleum
+10/3/2001,10/9/2001,Equity Office Properties,EOP,Texaco Inc,TX,M&A,Acquisition by Chevron
+10/4/2001,10/9/2001,TECO Energy,TE,Global Crossing Ltd,GX,Failure,Lack of representation
+11/1/2001,11/6/2001,Health Management Assoc,HMA,GPU Inc,GPU,M&A,Acquisition by FirstEnergy Corp.
+11/27/2001,11/30/2001,Equity Residential Prop Tr,EQR,National Service Ind,NSI,Other,Spins off Acuity Brands
+11/28/2001,11/29/2001,NVIDIA Corp,NVDA,Enron Corp,ENE,Failure,Lack of representation
+12/10/2001,12/14/2001,Jones Apparel Group,JNY,Homestake Mining,HM,M&A,Acquisition by Barrick Gold
+12/12/2001,12/12/2001,Genzyme Corp,GENZ,Ralston-Ralston Purina Gp,RAL,M&A,Acquisition by Nestle
+12/27/2001,12/31/2001,Waters Corporation,WAT,FMC Corp,FMC,Other,Spins off FMC Technologies
+1/16/2002,1/16/2002,Plum Creek Timber Co.,PCL,Kmart,KM,Failure,Lack of representation
+1/23/2002,1/29/2002,ACE Limited,ACE,Mead Corp,MEA,M&A,Merger with Westvaco
+1/23/2002,1/31/2002,Rational Software,RATL,Niagara Mohawk Power,NMK,M&A,Acquisition by National Grid Group
+2/6/2002,2/8/2002,Marshall & Ilsley Corp.,MI,Willamette Industries,WLL,M&A,Acquisition by Weyerhaeuser
+5/2/2002,5/3/2002,First Tennessee National,FTN,COMPAQ Computer,CPQ,M&A,Acquisition by Hewlett-Packard
+5/10/2002,5/10/2002,American Standard,ASD,Sapient Corp,SAPE,Failure,No longer meets standards of inclusion
+5/13/2002,5/14/2002,BJ Services,BJS,USAirways Group Inc,U,Failure,Lack of representation
+5/13/2002,5/14/2002,Apollo Group,APOL,WorldCom Inc.-WorldCom Group,WCOM,Failure,Lack of representation
+6/20/2002,6/26/2002,"Simon Property Group, Inc",SPG,Conexant Systems,CNXT,Other,Reorganization
+7/9/2002,7/19/2002,Prudential Financial,PRU,Alcan Inc,AL,Other,Not U.S. company
+7/9/2002,7/19/2002,United Parcel Service,UPS,Barrick Gold Corp,ABX,Other,Not U.S. company
+7/9/2002,7/19/2002,eBay Inc.,EBAY,"Inco, Ltd",N,Other,Not U.S. company
+7/9/2002,7/19/2002,Electronic Arts,ERTS,Nortel Networks Corp Hldg Co,NT,Other,Not U.S. company
+7/9/2002,7/19/2002,SunGard Data Systems,SDS,Placer Dome Inc,PDG,Other,Not U.S. company
+7/9/2002,7/19/2002,Goldman Sachs Group,GS,Royal Dutch Petroleum,RD,Other,Not U.S. company
+7/9/2002,7/19/2002,Principal Financial Group,PFG,Unilever N.V,UN,Other,Not U.S. company
+7/12/2002,7/16/2002,North Fork Bancorporation,NFB,Immunex Corp,IMNX,M&A,Acquisition by Amgen
+7/24/2002,7/24/2002,"Anthem, Inc.",ATH,Conseco Inc,CNC,Failure,Market cap changes
+8/7/2002,8/13/2002,Monsanto Co.,MON,Palm Inc.,PALM,Failure,Market cap changes
+8/14/2002,8/20/2002,Travelers Property Casualty Corp,TAP.B,Vitesse Semiconductor,VTSS,Failure,Market cap changes
+8/30/2002,9/3/2002,RJ Reynolds Tobacco,RJR,Conoco Inc,COC,M&A,Merger with Philips
+11/13/2002,11/18/2002,AT&T Comcast Corp.,CMCSA,Comcast Class A Special,CMCSK,M&A,"AT&T spins off broadband unit, merges it w/ Comcast to form AT&T Comcast"
+12/4/2002,12/11/2002,Quest Diagnostics,DGX,TRW Inc,TRW,M&A,Acquisition by Northrop Grumman
+2/19/2003,2/21/2003,AutoNation Inc.,AN,Rational Software,RATL,M&A,Acquisition by IBM
+3/11/2003,3/13/2003,Apartment Investment & Management Co,AIV,AMR Corp.,AMR,Failure,Market cap changes
+3/19/2003,3/20/2003,McCormick & Company,MKC,HEALTHSOUTH Corp.,HRC,Failure,Allegations company violated securities laws
+3/25/2003,3/28/2003,Symantec Corp.,SYMC,Household International,HI,M&A,Acquisition by HSBC Holdings
+4/9/2003,4/15/2003,Federated Investors Inc.,FII,Pharmacia Corp.,PHA,M&A,Acquisition by Pfizer
+7/15/2003,7/16/2003,ProLogis,PLD,Mirant Corp,MIR,Failure,Bankruptcy
+8/13/2003,8/19/2003,Medco Health Solutions Inc.,MHS,McDermott International,MDR,Failure,Market cap changes
+9/23/2003,9/25/2003,Express Scripts,ESRX,Quintiles Transnational,QTRN,M&A,Taken private
+11/6/2003,11/12/2003,BIOGEN IDEC,BIIB,Biogen Inc.,BGEN,M&A,Merger w/ IDEC becoming BIOGEN IDEC
+2/23/2004,2/26/2004,M&T Bank Corp.,MTB,Concord EFS Inc.,CE,M&A,Acquisition by First Data Corp
+3/16/2004,3/24/2004,Caremark Rx,CMX,Tupperware Corp.,TUP,Failure,Market cap changes
+3/25/2004,3/31/2004,E*Trade Financial,ET,FleetBoston Financial,FBF,M&A,Acquisition by Bank of America
+3/29/2004,4/1/2004,Affiliated Computer Services,ACS,Travelers Property Casualty,TAP.B,M&A,Acqusition by St. Paul Companies
+4/19/2004,4/22/2004,Mylan Laboratories,MYL,Sprint PCS,PCS,Other,Sprint Corp eliminated Sprint PCS tracking stock
+4/19/2004,4/28/2004,Valero Energy,VLO,John Hancock Financial Services,JHF,M&A,Acquisition by Manulife Financial Corp
+4/26/2004,4/30/2004,Hospira Inc.,HSP,American Greetings,AM,Failure,Market cap changes
+6/24/2004,6/30/2004,Sovereign Bancorp,SOV,Union Planters Corporation,UPC,M&A,Merger with Regions Financial
+6/26/2004,6/30/2004,Gilead Sciences,GILD,Bank One Corp.,ONE,M&A,Acquisition by JP Morgan Chase
+7/26/2004,8/2/2004,Fisher Scientific,FSH,Thomas & Betts,TNB,Failure,Market cap changes
+8/26/2004,8/31/2004,Coach Inc.,COH,Charter One Financial,CF,M&A,Acquisition by Royal Bank of Scotland
+10/25/2004,10/29/2004,Laboratory Corp of America Holdings,LH,South Trust Corp.,SOTR,M&A,Acquisition by Wachovia
+10/25/2004,10/26/2004,CIT Group,CIT,AT&T Wireless,AWE,M&A,Acquisition by Cingular Wireless
+11/10/2004,11/30/2004,L-3 Communications Holdings,LLL,WellPoint Health Networks,WLP,M&A,Acquisition by Anthem
+11/29/2004,12/2/2004,Freescale Semiconductor Inc.,FSL.B,Winn-Dixie,WIN,Failure,Market cap changes
+12/8/2004,12/17/2004,Archstone-Smith Trust,ASN,Crane Co.,CR,Failure,Market cap changes
+12/8/2004,12/17/2004,News Corp.,NWS.A,Deluxe Corp.,DLX,Failure,Market cap changes
+12/8/2004,12/17/2004,Compass Bancshares,CBSS,Worthington Industries,WOR,Failure,Market cap changes
+12/21/2004,12/28/2004,XTO Energy,XTO,PeopleSoft Inc.,PSFT,M&A,Acquisition by Oracle
+3/7/2005,3/11/2005,National Oilwell Varco,NOV,Power-One,PWER,Failure,Market cap changes
+3/21/2005,3/24/2005,Sears Holdings Corp.,SHLD,Sears  Roebuck & Co.,S,M&A,Merger with Kmart (creating Sears Holdings)
+6/22/2005,7/1/2005,D.R. Horton,DHI,Veritas Software,VRTS,M&A,Acquisition by Symantec
+6/28/2005,7/1/2005,Constellation Brands,STZ,Great Lakes Chemical,GLK,M&A,Acquisition by Crompton Corp
+7/12/2005,7/21/2005,Weatherford Int'l,WFT,"Toys ""R"" US",TOY,M&A,Taken private
+7/26/2005,8/11/2005,Vornado Realty Trust,VNO,SunGard Data Systems,SDS,M&A,Taken private
+8/4/2005,8/12/2005,Murphy Oil,MUR,Nextel Communications,NXTL,M&A,Acquisition by Sprint
+8/4/2005,8/10/2005,Tyson Foods,TSN,Unocal Corp.,UCL,M&A,Acquisition by Chevron
+8/15/2005,8/18/2005,Public Storage,PSA,Delta Air Lines,DAL,Failure,Market cap changes
+8/29/2005,8/29/2005,Coventry Health Care Inc.,CVH,May Dept. Stores,MAY,M&A,Acquisition by Federated Department Stores
+9/26/2005,9/30/2005,Ameriprise Financial,AMI,Providian Financial,PVN,M&A,Acquisition by Washington Mutual
+9/30/2005,10/3/2005,Lennar Corp.,LEN,Gillette Co.,G,M&A,Acquisition by Procter & Gamble
+10/7/2005,10/10/2005,Patterson Companies Inc.,PDCO,Delphi Corp.,DPH,Failure,Bankruptcy
+11/14/2005,11/18/2005,Amazon.com,AMZN,AT&T Corp.,T,M&A,Acquisition by SBC Communications
+11/29/2005,12/1/2005,Genworth Financial Inc.,GNW,Calpine Corp.,CPN,Failure,Market cap changes
+12/8/2005,12/15/2005,E.W. Scripps,SSP,Georgia-Pacific Group,GP,M&A,Acquisition by Koch Industries
+12/27/2005,12/30/2005,Viacom Inc. (New),VIA.B,Visteon Corp.,VC,Failure,Market Cap changes
+12/27/2005,12/30/2005,Whole Foods Market,WFMI,MBNA Corp.,KRB,M&A,Acquisition by Bank of America
+1/3/2006,1/4/2006,Estee Lauder,EL,Mercury Interactive,MERQE,Failure,Delisting by Nasdaq
+1/25/2006,1/31/2006,VeriSign Inc.,VRSN,Reebok Int'l,RBK,M&A,Acquisition by Adidas-Salomon
+1/25/2006,1/31/2006,Harman Int'l,HAR,Siebel Systems Inc.,SEBL,M&A,Acquisition by Oracle
+2/21/2006,2/24/2006,Barr Pharmaceuticals Inc.,BRL,Scientific-Atlanta,SFA,M&A,Acquisition by Cisco
+3/1/2006,3/2/2006,Chesapeake Energy Corp.,CHK,Dana Corp.,DCN,Failure,Market cap changes
+3/26/2006,3/31/2006,Google Inc.,GOOG,Burlington Resources Inc.,BR,M&A,Acquisition by ConocoPhillips
+3/28/2006,4/3/2006,Kimco Realty Corp.,KIM,Jefferson-PilotCorp.,JP,M&A,Acquisition by Lincoln National
+3/28/2006,3/31/2006,Boston Properties,BXP,Cinergy Corp.,CIN,M&A,Acquisition by Duke Energy
+3/29/2006,3/31/2006,Dean Foods,DF,Maytag Corp.,MYG,M&A,Acquisition by Whirlpool
+4/11/2006,4/21/2006,Legg Mason,LM,Guidant Co.,GDT,M&A,Acquisition by Boston Scientific
+4/19/2006,4/19/2006,SanDisk Corp.,SNDK,Chiron Corp.,CHIR,M&A,Acquisition by Novartis
+5/10/2006,5/17/2006,Embarq Corp.,EQ,Applied Micro Circuits Corp.,AMCC,Failure,Market cap changes
+5/25/2006,6/1/2006,Juniper Neworks Inc.,JNPR,Albertson's Inc.,ABS,M&A,Acquisition by SuperValu
+5/31/2006,6/5/2006,Commerce Bancorp,CBH,Engelhard Corp.,EC,M&A,Acquisition by BASF
+6/22/2006,6/27/2006,CONSOL Energy Inc.,CNX,Knight-Ridder Inc.,KRI,M&A,Acquisition by McClatchy
+7/11/2006,7/17/2006,Windstream Corp.,WIN,Cooper Tire & Rubber Co.,CTB,Failure,Market cap changes
+7/24/2006,7/31/2006,Realogy Corp.,H,Gateway Inc.,GTW,Failure,Market cap changes
+7/24/2006,7/31/2006,Wyndham Worldwide Corp.,WYN,Cendant Corp.,CD,Other,Cendant spins off Wyndham and Realogy
+8/3/2006,8/10/2006,Chicago Mercantile Exchange Holdings,CME,Kerr-McGee Corp.,KMG,M&A,Acquisition by Anadarko Petroleum
+9/25/2006,9/29/2006,Western Union Co.,WU,Andrew Corp.,ANDW,Failure,Market cap changes
+9/27/2006,9/29/2006,Smith International,SII,Golden West Financial,GDW,M&A,Acquisition by Wachovia
+10/30/2006,11/3/2006,Celgene Corp.,CELG,AmSouth Bancorp,ASO,M&A,Acquisition by Regions Financial
+11/2/2006,11/9/2006,Fidelity National Information Services,FIS,Louisiana-Pacific Corp.,LPX,Failure,Market cap changes
+11/6/2006,11/9/2006,CB Richard Ellis Group,CBG,Fisher Scientific,FSH,M&A,Acquisition by Thermo Electron Corp
+11/13/2006,11/16/2006,Cognizant Technology Solutions,CTSH,Alberto-Culver Co. (old),ACV,Other,Splits up
+11/15/2006,11/17/2006,Peabody Energy Corp,BTU,HCA Inc.,HCA,M&A,Taken private
+11/21/2006,12/1/2006,DirecTV Group Inc.,DTV,Freescale Semiconductor Inc.,FSL.B,M&A,Taken private
+11/22/2006,11/30/2006,IAC/InterActive Corp.,IACI,Lucent Technologies,LU,M&A,Acquisition by Alcatel
+11/23/2006,11/30/2006,Questar Corp.,STR,North Fork Bancorp. Inc.,NFB,M&A,Acquisition by Capital One Financial
+12/15/2006,12/19/2006,Terex Corp.,TEX,Navistar International,NAV,Failure,Delisting by NYSE
+12/20/2006,12/29/2006,Spectra Energy Corp.,SE,Parametric Technology,PMTC,Failure,Market cap changes
+1/2/2007,1/3/2007,ENSCO International,ESV,BellSouth Corp.,BLS,M&A,Acquisition by AT&T
+1/3/2007,1/9/2007,AvalonBay Communities,AVB,Symbol Technologies,SBL,M&A,Acquisition by Motorola
+1/31/2007,2/1/2007,Polo Ralph Lauren Corp.,RL,Comverse Technology,CMVT,Failure,Delisting by Nasdaq
+2/5/2007,2/14/2007,Hudson City Bancorp.,HCBK,American Power Conversion,APCC,M&A,Acquisition by Schneider Electric
+2/7/2007,2/21/2007,Integrys Energy Group  Inc.,TEG,Peoples Energy,PGL,M&A,"Acquisition by WPS Resources, which changes its name to Integrys"
+2/7/2007,2/9/2007,Varian Medical Systems,VAR,Equity Office Properties,EOP,M&A,Acquisition by Blackstone Group
+2/26/2007,3/1/2007,C.H. Robinson Worldwide,CHRW,Health Management Assoc.,HMA,Other,Market cap changes (after payout of special dividend)
+3/12/2007,3/19/2007,Host Hotels & Resorts,HST,Phelps Dodge,PD,M&A,Acquisition by Freeport-McMoRan Copper & Gold
+3/16/2007,3/20/2007,Developers Diversified Realty,DDR,Caremark Rx Inc.,CMX,M&A,Acquisition by CVS
+3/22/2007,3/30/2007,Kraft Foods Inc,KFT,Sabre Holding Corp.,TSG,M&A,Taken private
+3/27/2007,3/28/2007,Abercrombie & Fitch Co.,ANF,Univision Communications,UVN,M&A,Taken private
+4/2/2007,4/9/2007,Assurant Inc.,AIZ,Realogy Corp.,H,M&A,Taken private
+5/22/2007,5/30/2007,MEMC Electronic Materials,WFR,Kinder Morgan,KMI,M&A,Taken private
+5/30/2007,5/31/2007,Precision Castparts,PCP,MedImmune Inc.,MEDI,M&A,Acquisition by AstraZeneca
+6/21/2007,6/29/2007,Tyco Electronics,TEL,PMC-Sierra,PMCS,Failure,Market cap changes
+6/21/2007,6/29/2007,Covidien Ltd.,COV,Sanmina-SCI Corp.,SANM,Failure,Market cap changes
+6/21/2007,6/29/2007,Discover Financial Services,DFS,ADC Telecomm. Inc.,ADCT,Failure,Market cap changes
+6/25/2007,6/29/2007,General Growth Properties,GGP,Mellon Financial,MEL,M&A,Merger with Bank of New York
+7/2/2007,7/6/2007,American Capital Strategies,ACAS,Dollar General,DG,M&A,Taken private
+7/9/2007,7/11/2007,Akamai Technologies,AKAM,Biomet  Inc.,BMET,M&A,Taken private
+8/16/2007,8/24/2007,Leucadia National Corp.,LUK,Keyspan Energy,KSE,M&A,Acquisition by National Grid Plc
+8/30/2007,9/7/2007,Microchip Technology,MCHP,Compass Bancshares,CBSS,M&A,Acquisition by Banco Bilbao Vizcaya Argentaria
+9/24/2007,9/26/2007,Tesoro Petroleum Co.,TSO,Maxim Integrated Products,MXIM,Failure,Delisting by Nasdaq
+9/24/2007,9/28/2007,Teradata Corp.,TDC,NCR Corp.,NCR,Other,Spins off Teradata
+9/24/2007,10/1/2007,Expedia Inc.,EXPE,Solectron Corp.,SLR,M&A,Acquisition by Flextronics
+9/24/2007,9/25/2007,IntercontinentalExchange Inc.,ICE,First Data Corp.,FDC,M&A,Taken private
+10/1/2007,10/5/2007,Noble Energy  Inc.,NBL,Archstone-Smith Trust,ASN,M&A,Taken private
+10/8/2007,10/9/2007,Expeditors Int'l.,EXPD,TXU Corp.,TXU,M&A,Taken private
+10/18/2007,10/26/2007,Titanium Metals Corp.,TIE,Bausch & Lomb Inc.,BOL,M&A,Taken private
+10/18/2007,10/24/2007,NYSE Euronext,NYX,Hilton Hotels,HLT,M&A,Taken private
+10/23/2007,10/25/2007,Jacobs Engineering Group,JEC,Avaya Inc.,AV,M&A,Taken private
+11/1/2007,11/8/2007,Pepco Holdings Inc.,POM,Manor Care Inc.,HCR,M&A,Taken private
+11/8/2007,11/16/2007,American Tower Corp.,AMT,ALLTEL Corp.,AT,M&A,Taken private
+11/8/2007,11/15/2007,Manitowoc Co.,MTW,Tektronix Inc.,TEK,M&A,Acquisition by Danaher
+12/5/2007,12/13/2007,GameStop Corp.,GME,Dow Jones & Co. Inc.,DJ,M&A,Acquisition by News Corp
+12/19/2007,12/28/2007,Washington Post Co.,WPO,Temple-Inland Inc.,TIN,Other,Splits up
+12/19/2007,12/31/2007,Total System Services,TSS,Synovus Financial,SNV,Other,Spins out Total System Services
+12/20/2007,12/20/2007,Range Resources Corp.,RRC,Tribune Co.,TRB,M&A,Taken private
+1/17/2008,1/28/2008,Cameron International,CAM,Harrah's Entertainment,HET,M&A,Taken private
+3/20/2008,3/28/2008,Phillip Morris International Inc.,PM,Circuit City Stores Inc.,CC,Failure,Fails to meet consistent profit criteria
+3/20/2008,3/31/2008,HCP Inc.,HCP,Commerce Bancorp,CBH,M&A,Acquisition by Toronto-Dominion Bank
+5/22/2008,6/2/2008,Intuitive Surgical Inc.,ISRG,The Bear Stearns Companies Inc.,BSC,M&A,Acquisition by JP Morgan
+5/27/2008,6/5/2008,Southwestern Energy Co.,SWN,Trane Inc.,TT,M&A,Acquisition by Ingersoll-Rand
+6/3/2008,6/10/2008,Lorillard Inc.,LO,Ambac Financial Group Inc.,ABK,Failure,Market cap changes
+6/12/2008,6/20/2008,Massey Energy Co.,MEE,OfficeMax Inc.,OMX,Failure,Market cap changes
+6/12/2008,6/20/2008,Cabot Oil & Gas Corp.,COG,Brunswick Corp.,BC,Failure,Market cap changes
+6/24/2008,6/30/2008,Scripps Networks Interactive,SNI,E.W. Scripps,SSP,Other,Splits up
+6/26/2008,6/30/2008,AK Steel Holding Corp.,AKS,Countrywide Financial Corp.,CFC,M&A,Acquisition by Bank of America
+7/10/2008,7/17/2008,MasterCard Inc.,MA,ACE Ltd.,ACE,Other,Redomesticates to Switzerland
+7/24/2008,7/30/2008,DaVita Inc.,DVA,Clear Channel Communications Inc.,CCU,M&A,Taken private
+8/13/2008,8/20/2008,Invesco Ltd.,IVZ,IAC/InterActiveCorp.,IACI,Other,Splits up
+8/25/2008,8/26/2008,CF Industries,CF,Electronics Data Systems,EDS,M&A,Acquisition by Hewlett-Packard
+9/9/2008,9/10/2008,Salesforce.com,CRM,Federal Home Loan Mortgage Corp.,FRE,Failure,Market cap changes (placed into conservatorship)
+9/9/2008,9/10/2008,Fastenal Co.,FAST,Federal National Mortgage Association,FNM,Failure,Market cap changes (placed into conservatorship)
+9/15/2008,9/19/2008,Harris Corp.,HRS,Lehman Brothers Holdings Inc.,LEH,Failure,Bankruptcy
+9/22/2008,9/26/2008,Amphenol Corp.,APH,Wendy's International Inc.,WEN,Failure,Market cap changes (too small even after acquisition by Triarc)
+9/22/2008,9/22/2008,Pioneer Natural Resources Co.,PXD,Safeco Corp.,SAF,M&A,Acquisition by Liberty Mutual Group
+9/26/2008,9/29/2008,Flowserve Corp.,FLS,Washington Mutual Inc.,WM,Failure,Placed into receivership
+9/29/2008,10/3/2008,Dr. Pepper Snapple Group Inc.,DPS,Wm. Wrigley Jr. Company,WWY,M&A,Acquisition by Mars
+10/16/2008,10/21/2008,NASDAQ OMX Group Inc.,NDAQ,Dillard's Inc.,DDS,Failure,Market cap changes
+10/28/2008,10/30/2008,Wisconsin Energy Corp.,WEC,MGIC Investment,MTG,Failure,Market cap changes
+10/30/2008,11/5/2008,J.M. Smucker Co.,SJM,Terex Corporation,TEX,Failure,Market cap changes
+11/7/2008,11/10/2008,People's United Financial Inc.,PBCT,Unisys Corp.,UIS,Failure,Market cap changes
+11/10/2008,11/13/2008,DENTSPLY International Inc.,XRAY,Hercules Inc.,HPC,Failure,Market cap changes (too small even after acquisition by Ashland)
+11/10/2008,11/13/2008,Wynn Resorts Ltd.,WYNN,Ashland Inc.,ASH,Failure,Market cap changes (too small even after it acquired Hercules)
+11/11/2008,11/12/2008,Cephalon Inc.,CEPH,General Growth Properties Inc.,GGP,Failure,Market cap changes
+11/17/2008,11/21/2008,Life Technologies Corp.,LIFE,Applied Biosystems Inc.,ABI,M&A,Acquisition by Invitrogen forms Life Technologies
+11/17/2008,11/18/2008,Stericycle Inc.,SRCL,Anheuser-Busch,BUD,M&A,Acquisition by InBev
+11/26/2008,12/1/2008,The Dun & Bradstreet Corp.,DNB,Liz Claiborne Inc.,LIZ,Failure,Market cap changes
+11/26/2008,12/3/2008,Republic Services Inc.,RSG,Allied Waste Industries Inc.,AW,M&A,Acquisition by Republic Services
+12/11/2008,12/18/2008,Equitable Resources Inc.,EQT,Transocean Inc.,RIG,Other,Redomesticates to Switzerland
+12/18/2008,12/22/2008,McAfee Inc.,MFE,Barr Pharmaceuticals Inc.,BRL,M&A,Acquisition by Teva
+12/23/2008,12/31/2008,FLIR Systems Inc,FLIR,National City Corp.,NCC,M&A,Acquisition by PNC Financial Services Group
+12/23/2008,12/31/2008,Owens-Illinois Inc,OI,Wachovia Corp. (New),WB,M&A,Acquisition by Wells Fargo
+12/23/2008,12/31/2008,SCANA Corp,SCG,Merrill Lynch,MER,M&A,Acquisition by Bank of America
+12/29/2008,1/5/2009,Iron Mountain Inc.,IRM,UST Inc.,UST,M&A,Acquisition by Altria
+1/22/2009,1/29/2009,Health Care REIT,HCN,Sovereign Bancorp.,SOV,M&A,Acquisition by Banco Santander
+2/13/2009,2/25/2009,Diamond Offshore Drilling Inc.,DO,Weatherford International Ltd.,WFT,Other,Redomesticates to Switzerland
+2/24/2009,3/3/2009,Ventas Inc.,VTR,Jones Apparel Group Inc.,JNY,Failure,Market cap changes
+2/24/2009,3/3/2009,Hormel Foods Corp.,HRL,American Capital Ltd.,ACAS,Failure,Market cap changes
+3/5/2009,3/16/2009,Northeast Utilities,NU,Tyco International Ltd.,TYC,Other,Redomesticates to Switzerland
+3/18/2009,3/27/2009,Time Warner Cable Inc.,TWC,Developers Diversified Realty Corp.,DDR,Failure,Market cap changes
+3/18/2009,3/26/2009,O'Reilly Automotive Inc.,ORLY,Noble Corp.,NE,Other,Redomesticates to Switzerland
+3/25/2009,4/1/2009,Denbury Resources Inc.,DNR,Rohm and Haas Co.,ROH,M&A,Acquisition by Dow Chemical
+5/21/2009,6/30/2009,Western Digital,WDC,Embarq Corp.,EQ,M&A,Acquisition by CenturyTel
+5/28/2009,6/4/2009,FMC Technologies Inc.,FTI,Covidien Ltd.,COV,Other,Redomesticates to Ireland
+6/1/2009,6/2/2009,DeVry Inc.,DV,General Motors Corp.,GM,Failure,Bankruptcy
+6/4/2009,6/30/2009,Quanta Services Inc.,PWR,Ingersoll-Rand Company Ltd.,IR,Other,Redomesticates to Ireland
+6/22/2009,6/25/2009,MetroPCS Communications Inc.,PCS,Tyco Electronics Ltd.,TEL,Other,Redomesticates to Switzerland
+7/17/2009,7/24/2009,Red Hat Inc.,RHT,CIT Group Inc.,CIT,Failure,Market cap changes
+8/11/2009,8/18/2009,FMC Corp.,FMC,Centex Corp.,CTX,M&A,Acquisition by Pulte Homes
+8/24/2009,8/31/2009,CareFusion Corp.,CFN,The Manitowoc Company Inc.,MTW,Failure,Market cap changes
+8/28/2009,9/8/2009,Airgas Inc,ARG,Cooper Industries Ltd.,CBE,Other,Redomesticates to Ireland
+10/1/2009,10/15/2009,First Solar Inc,,Wyeth,,M&A,Acquisition by Pfizer
+10/29/2009,11/3/2009,Priceline.com,,Schering-Plough Corp.,,M&A,Acquisition by Merck & Co.
+12/11/2009,12/18/2009,Cliffs Natural Resources Inc,,KB Home,,Failure,Market cap changes
+12/11/2009,12/18/2009,Mead Johnson Nutrition Co,,MBIA Inc.,,Failure,Market cap changes
+12/11/2009,12/18/2009,Ross Stores Inc,,Dynegy Inc.,,Failure,Market cap changes
+12/11/2009,12/18/2009,SAIC Inc,,Convergys Corp.,,Failure,Market cap changes
+12/11/2009,12/18/2009,Visa Inc,,Ciena Corp.,,Failure,Market cap changes
+12/15/2009,12/22/2009,Roper Industries Inc,,ENSCO Int'l,,Other,Redomesticates to U.K.
+1/21/2010,1/28/2010,NRG Energy,,Sun Microsystems Inc,,M&A,Acquisition by Oracle
+1/26/2010,2/12/2010,Berkshire Hathaway B,,Burlington Northern Santa Fe Co,,M&A,Acquisition by Berkshire Hathaway
+1/29/2010,2/8/2010,Urban Outfitters,,Affiliated Computer Services,,M&A,Acquisition by Xerox
+2/16/2010,2/26/2010,Discovery Communications Inc,,Pepsi Bottling Group Inc,,M&A,Acquisition by PepsiCo
+2/22/2010,2/26/2010,Helmerich & Payne Inc,,IMS Health Inc,,M&A,Taken private
+3/3/2010,3/12/2010,ONEOK Inc,,Black & Decker Corp,,M&A,Acquisition by The Stanley Works
+3/18/2010,4/29/2010,Cerner Corp.,,BJ Services Company,,M&A,Acquisition by Baker Hughes Inc.
+6/22/2010,6/25/2010,"CarMax, Inc.",,XTO Energy Inc.,,M&A,Acquisition by ExxonMobil Inc.
+6/23/2010,6/30/2010,QEP Resources Inc,,Questar Corp.,,Other,Spins off QEP Resources
+7/8/2010,7/14/2010,Ace Limited,,Millipore Inc.,,M&A,Acquisition by Merck KGaA
+8/19/2010,8/26/2010,Tyco International Ltd.,,Smith International Inc.,,M&A,Acquisition by Schlumberger Ltd.
+11/10/2010,11/16/2010,Ingersoll-Rand Plc,,Pactiv Corporation,,M&A,Acquisition by Reynolds Group Holdings
+12/9/2010,12/17/2010,F5 Networks Inc.,,The New York Times Co.,,Failure,Market cap changes
+12/9/2010,12/17/2010,Netflix Inc.,,Office Depot Inc.,,Failure,Market cap changes
+12/9/2010,12/17/2010,Newfield Exploration Co.,,Eastman Kodak Co.,,Failure,Market cap changes
+12/9/2010,12/17/2010,Cablevision Systems Corp.,,King Pharmaceuticals Inc.,,M&A,Acquisition by Pfizer Inc.
+12/22/2010,1/3/2011,"Motorola Mobility Holdings, Inc",,Meredith Corp,,Failure,Market cap changes
+1/11/2011,1/14/2011,Noble Corp,,QLogic Corp,,Failure,Market cap changes
+1/26/2011,2/28/2011,Covidien Plc,,McAfee Inc.,,M&A,Acquisition by Intel Corp.
+2/16/2011,2/25/2011,Joy Global Inc.,,Allegheny Energy Inc.,,M&A,Acquisition by First Energy
+3/24/2011,3/31/2011,Edwards Lifesciences,,Qwest Communications,,M&A,Acquisition by CenturyLink
+3/29/2011,4/1/2011,BlackRock,,Genzyme Corp.,,M&A,Acquisition by Sanofi-Aventis
+4/20/2011,4/27/2011,Chipotle,,"Novell, Inc.",,M&A,Taken private
+5/24/2011,6/1/2011,"Alpha Natural Resources, Inc.",,Massey Energy Company,,M&A,Acquisition by Alpha Natural Resources
+5/26/2011,6/2/2011,ProLogis Inc.,,ProLogis,,M&A,Acquisition by AMB Property (then renamed ProLogis Inc.)
+6/23/2011,6/30/2011,Marathon Petroleum Corp,,RadioShack Corp.,,Failure,Market cap changes
+6/27/2011,7/5/2011,Accenture plc,,Marshall & Ilsley Corp.,,M&A,Acquisition by Bank of Montreal
+9/21/2011,9/23/2011,The Mosaic Company,,National Semiconductor Corp.,,M&A,Acquisition by Texas Instruments
+10/11/2011,10/14/2011,TE Connectivity Ltd.,,Cephalon Inc.,,M&A,Acquisition by Teva Pharmaceutical Industries
+10/24/2011,10/31/2011,Xylem Inc.,,ITT Corp.,,Other,Spins off Xylem
+11/18/2011,11/22/2011,Cooper Industries,,Janus Capital Group,,Failure,Market cap changes
+12/8/2011,12/16/2011,BorgWarner Inc.,,AK Steel Holding Corp.,,Failure,Market cap changes
+12/8/2011,12/16/2011,Perrigo Co.,,Monster Worldwide Inc.,,Failure,Market cap changes
+12/8/2011,12/16/2011,Dollar Tree Inc.,,MEMC Electronic Materials Inc.,,Failure,Market cap changes
+12/8/2011,12/12/2011,AGL Resources Inc.,,Nicor Inc.,,M&A,Acquisition by AGL Resources
+12/14/2011,12/20/2011,TripAdvisor Inc.,,Tellabs Inc.,,Failure,Market cap changes
+12/22/2011,12/30/2011,WPX Energy Inc.,,Compuware Corp,,Failure,Market cap changes
+3/12/2012,3/13/2012,Crown Castle International Corp.,,Constellation Energy Group,,M&A,Acquisition by Exelon Corp.
+4/2/2012,4/3/2012,"Fossil, Inc.",,Medco Health Solutions Inc.,,M&A,Acquisition by Express Scripts
+4/23/2012,4/23/2012,Phillips 66,,Supervalu Inc.,,Failure,Market cap changes
+5/10/2012,6/5/2012,Lam Research,,Novellus Systems,,M&A,Acquisition by Lam Research
+5/17/2012,5/24/2012,Kinder Morgan,,El Paso Corp.,,M&A,Acquisition by Kinder Morgan
+5/21/2012,5/24/2012,Alexion Pharmaceuticals,,Motorola Mobility,,M&A,Acquisition by Google
+6/21/2012,6/29/2012,Monster Beverage,,Sara Lee Corp.,,Other,Splits up
+6/25/2012,6/29/2012,Seagate Technology,,Progress Energy Inc,,M&A,Acquisition by Duke Energy
+7/26/2012,7/30/2012,Ensco plc,,Goodrich Corporation,,M&A,Acquisition by United Technologies
+8/29/2012,9/4/2012,LyondellBasell,,Sears Holdings Corporation,,Other,Below public float threshold
+9/24/2012,10/1/2012,ADT Corp,,Lexmark Int'l Inc,,Failure,Market cap changes
+9/24/2012,9/28/2012,Pentair Ltd.,,"DeVry, Inc.",,Failure,Market cap changes
+9/25/2012,10/1/2012,Kraft Foods Group,,Alpha Natural Resources,,Failure,Market cap changes
+10/1/2012,10/4/2012,"PetSmart, Inc.",,Sunoco Inc.,,M&A,Acquisition by Energy Transfer Partners
+11/26/2012,11/30/2012,Dollar General,,Cooper Industries,,M&A,Acquisition by Eaton Corp.
+12/5/2012,12/11/2012,Garmin Ltd.,,R.R. Donnelley,,Failure,Market cap changes
+12/18/2012,12/21/2012,Delphi Automotive,,Titanium Metals,,M&A,Acquisition by Precision Castparts
+12/20/2012,12/31/2012,AbbVie Inc.,,Federated Investors Inc B,,Failure,Market cap changes
+2/7/2013,2/15/2013,PVH Corp,,Big Lots Inc,,Failure,Market cap changes
+4/24/2013,4/30/2013,Regeneron Pharmaceuticals Inc,,Metropcs Communications Inc,,M&A,Merger with T-Mobile USA
+5/3/2013,5/8/2013,Macerich Co,,Coventry Health Care Inc,,M&A,Acquisition by Aetna
+5/16/2013,5/23/2013,Kansas City Southern Inc,,Dean Foods Co,,Other,Spins off WhiteWave
+6/3/2013,6/6/2013,General Motors Company,,Heinz H.J. Co,,M&A,Taken private
+6/14/2013,6/21/2013,Zoetis Inc,,First Horizon National Corp,,Failure,Market cap changes
+6/20/2013,6/28/2013,News Corporation Class A,,Apollo Group Inc,,Failure,Market cap changes
+7/1/2013,7/8/2013,Nielsen Holdings NV,,Sprint Nextel Corp,,Other,Deal results in public float below threshold
+9/7/2013,9/10/2013,Delta Air Lines,,BMC Software Inc,,M&A,Taken private
+9/11/2013,9/20/2013,Vertex Pharmaceuticals Inc,,Advanced Micro Devices,,Failure,Market cap changes
+9/11/2013,9/20/2013,AMETEK Inc,,SAIC Inc,,Failure,Market cap changes
+10/21/2013,10/28/2013,Transocean Ltd,,"Dell, Inc.",,M&A,Taken private
+10/28/2013,11/1/2013,Michael Kors Holdings Ltd,,NYSE Euronext,,M&A,Acquisition by NYSE Euronext
+11/22/2013,11/29/2013,Allegion plc,,Penney J.C. Inc,,Failure,Market cap changes
+12/4/2013,12/9/2013,General Growth Properties Inc,,Molex Inc,,M&A,Taken private
+12/11/2013,12/20/2013,Alliance Data Systems Corp,,Abercrombie & Fitch Company,,Failure,Market cap changes
+12/11/2013,12/20/2013,Mohawk Industries Inc,,JDS Uniphase Corp,,Failure,Market cap changes
+12/11/2013,12/20/2013,Facebook Inc,,Teradyne Inc,,Failure,Market cap changes
+1/16/2014,1/23/2014,Tractor Supply Company,,Life Technologies Corporation,,M&A,Acquired by Thermo Fisher Scientific
+3/11/2014,4/3/2014,Google Inc. Class C,,N/A,,N/A,N/A
+3/14/2014,3/21/2014,"Keurig Green Mountain, Inc.",,"WPX Energy, Inc.",,Failure,Market cap changes
+3/26/2014,4/1/2014,"Essex Property Trust, Inc.",,Cliffs Natural Resources Inc.,,Failure,Market cap changes
+4/24/2014,4/30/2014,"Under Armour, Inc.",,"Beam, Inc.",,M&A,Acquisition by Suntory Holdings
+4/24/2014,4/30/2014,Navient Corp,,SLM Corp,,Other,Splits up
+5/5/2014,5/7/2014,Avago Technologies Limited,,LSI Corporation,,M&A,Acquired by Avago Technologies
+6/12/2014,6/20/2014,Cimarex Energy Co.,,International Game Technology,,Failure,Market cap changes
+6/24/2014,6/30/2014,"Affiliated Managers Group, Inc.",,"Forest Laboratories, Inc.",,M&A,Acquisition by Actavis
+6/27/2014,7/1/2014,"Martin Marietta Materials, Inc.",,United States Steel Corporation,,Failure,Market cap changes
+7/30/2014,8/6/2014,"Discovery Communications, Class C",,N/A,,N/A,N/A
+8/14/2014,8/18/2014,Mallinckrodt Plc,,Rowan Cos. Plc,,Other,Does not meet new market cap criteria
+9/12/2014,9/19/2014,"United Rentals, Inc.",,Graham Holdings Co.,,Other,Does not meet new market cap criteria
+9/12/2014,9/19/2014,"Universal Health Services, Class B",,Peabody Energy Corporation,,Failure,Market cap changes
+10/29/2014,11/4/2014,"Level 3 Communications, Inc.",,"Jabil Circuit, Inc.",,Other,Does not meet new market cap criteria
+12/1/2014,12/4/2014,Royal Caribbean Cruises Ltd.,,"Bemis Company, Inc.",,Other,Does not meet new market cap criteria
+1/21/2015,1/26/2015,Endo International Plc,,Covidien Plc,,M&A,Acquisition by Medtronic,Acquisition by Medtroni
+1/23/2015,1/26/2015,"HCA Holdings, Inc.",,Safeway Inc.,,M&A,Taken private,Taken privat
+3/9/2015,3/11/2015,"Skyworks Solutions, Inc.",,"PetSmart, Inc.",,M&A,Taken private,Taken privat
+3/13/2015,3/20/2015,SL Green Realty Corp.,,Nabors Industries Ltd.,,Failure,Market cap changes,Market cap change
+3/13/2015,3/20/2015,Hanesbrands Inc.,,"Avon Products, Inc.",,Failure,Market cap changes,Market cap change
+3/13/2015,3/20/2015,Equinix Inc,,Denbury Resources Inc.,,Failure,Market cap changes,Market cap change
+3/13/2015,3/17/2015,"Henry Schein, Inc.",,CareFusion Corporation,,M&A,"Acquisition by Becton, Dickinson and Company","Acquisition by Becton, Dickinson and Company
+3/17/2015,3/20/2015,"American Airlines Group, Inc.",,"Allergan, Inc.",,M&A,Acquisition by Actavis,Acquisition by Actavi
+3/27/2015,4/6/2015,Realty Income Corporation,,"Windstream Holdings, Inc.",,Other,Spins off assets,Spins off asset
+6/9/2015,6/11/2015,"Qorvo, Inc.",,"Lorillard, Inc.",,M&A,Acquisition by  Reynolds American,Acquisition by  Reynolds America
+6/19/2015,6/30/2015,"Baxalta, Inc.",,"QEP Resources, Inc.",,Failure,Market cap changes,Market cap change
+6/19/2015,6/19/2015,WestRock Co.,,MeadWestvaco Corporation,,Other,Merger with Rock-Tenn creates WestRock Co.,Merger with Rock-Tenn creates WestRock Co
+6/23/2015,7/1/2015,Columbia Pipeline Group Inc,,Allegheny Technologies Incorporated,,Failure,Market cap changes,Market cap change
+6/26/2015,6/30/2015,"J.B. Hunt Transport Services, Inc.",,"Integrys Energy Group, Inc.",,M&A,Acquisition by Wisconsin Energy Corp.,Acquisition by Wisconsin Energy Corp
+7/6/2015,7/8/2015,"Advance Auto Parts, Inc.",,"Family Dollar Stores, Inc.",,M&A,Acquisition by Dollar Tree,Acquisition by Dollar Tre
+7/14/2015,7/17/2015,PayPal Holdings Inc,,Noble Corporation plc,,Failure,Market cap changes,Market cap change
+7/24/2015,7/28/2015,Signet Jewelers Limited,,DIRECTV,,M&A,Acquisition by AT&T,Acquisition by AT&
+8/10/2015,9/18/2015,"Twenty-First Century Fox, Class B",,N/A,,N/A,N/A,N/
+8/10/2015,9/18/2015,News Corporation Class B,,N/A,,N/A,N/A,N/
+8/10/2015,9/18/2015,Comcast Corporation Class A Special,,N/A,,N/A,N/A,N/
+8/27/2015,8/28/2015,Activision Blizzard Inc,,Pall Corporation,,M&A,Acquisition by Danaher,Acquisition by Danahe
+8/27/2015,9/2/2015,"United Continental Holdings, Inc.",,"Hospira, Inc.",,M&A,Acquisition by Pfizer,Acquisition by Pfize
+9/30/2015,10/7/2015,Verisk Analytics Inc,,Joy Global Inc.,,Failure,Market cap changes,Market cap change
+10/27/2015,10/30/2015,Hewlett Packard Enterprise Co.,,"Hudson City Bancorp, Inc.",,M&A,Acquisition by M&T Bank,Acquisition by M&T Ban
+11/9/2015,11/17/2015,Synchrony Financial,,"Genworth Financial, Inc. Class A",,Failure,Market cap changes,Market cap change
+11/12/2015,11/18/2015,"Illumina, Inc.",,Sigma-Aldrich Corporation,,M&A,Acquisition by Merck KGaA,Acquisition by Merck KGa
+11/23/2015,11/27/2015,"CSRA, Inc.",,Computer Sciences Corporation,,Other,Spins off SCRA,Spins off SCR
+12/22/2015,12/28/2015,"Church & Dwight Co., Inc.",,Altera Corporation,,M&A,Acquisition by Intel,Acquisition by Inte
+12/28/2015,1/4/2016,Willis Group Holdings,,Fossil Group Inc.,,Failure,Market cap changes
+1/13/2016,1/15/2016,Extra Space Storage Inc.,,Chubb Corporation,,M&A,Acquisition by ACE Ltd.
+1/22/2016,1/29/2016,Federal Realty Investment Trust,,Broadcom Corporation Class A,,M&A,Acquisition by Avago Technologies Ltd.
+1/26/2016,1/29/2016,"Citizens Financial Group, Inc.",,Precision Castparts Corp.,,M&A,Acquisition by Berkshire Hathaway
+2/16/2016,2/19/2016,Concho Resources Inc.,,"Plum Creek Timber Company, Inc.",,M&A,Acquisition by Weyerhaeuser Co.
+3/1/2016,3/3/2016,"American Water Works Company, Inc.",,CONSOL Energy Inc.,,Failure,Market cap changes
+3/24/2016,3/29/2016,Centene Corporation,,Ensco plc,,Failure,Market cap changes
+3/24/2016,3/29/2016,"Hologic, Inc.",,"Pepco Holdings, Inc.",,M&A,Acquisition by Exelon Corp.
+3/28/2016,4/1/2016,"Foot Locker, Inc.",,Cameron International Corporation,,M&A,Acquisition by Schlumberger Ltd.
+4/7/2016,4/15/2016,"Ulta Salon, Cosmetics & Fragrance",,Tenet Healthcare Corporation,,Failure,Market cap changes
+4/8/2016,4/8/2016,"Under Armour, Inc. Class C",,N/A,,N/A,N/A
+4/19/2016,4/22/2016,Global Payments Inc.,,GameStop Corp. Class A,,Failure,Market cap changes
+4/26/2016,5/2/2016,"Acuity Brands, Inc.",,ADT Corporation,,M&A,Acquisition by Apollo Global Management
+5/3/2016,5/4/2016,"UDR, Inc.",,"Keurig Green Mountain, Inc.",,M&A,Acquisition by JAB Holding Company
+5/10/2016,5/12/2016,"Alaska Air Group, Inc.",,SanDisk Corporation,,M&A,Acquisition by Western Digital Corp.
+5/13/2016,5/17/2016,"Digital Realty Trust, Inc.",,Time Warner Cable Inc.,,M&A,Acquisition by Charter Communications
+5/18/2016,5/20/2016,LKQ Corporation,,"Airgas, Inc.",,M&A,Acquisition by Air Liquide SA
+5/24/2016,5/27/2016,Arthur J. Gallagher & Co.,,Coca-Cola Enterprises,,M&A,"Merges w/ foreign Coca-Cola bottlers, resulting in foreign domicile"
+5/27/2016,6/2/2016,TransDigm Group Incorporated,,"Baxalta, Inc. Class A",,M&A,Acquisition by Shire plc
+6/21/2016,6/23/2016,Fortune Brands Home & Security,,Cablevision Systems Corporation,,M&A,Acquisition by Altice NV
+6/23/2016,6/30/2016,Albemarle Corporation,,"TECO Energy, Inc.",,M&A,Acquisition by Emera Inc.
+6/23/2016,7/1/2016,Fortive Corp.,,Columbia Pipeline Group Inc,,M&A,Acquisition by Columbia Pipeline Group Inc.
+6/29/2016,6/30/2016,Alliant Energy Corp,,"AGL Resources, Inc.",,M&A,Acquisition by Southern Co
+8/25/2016,9/2/2016,Mettler-Toledo International Inc.,,Johnson Controls Inc.,,M&A,Merger with Tyco International forms Johnson Controls International
+8/25/2016,9/2/2016,Johnson Controls International,,Tyco International PLC,,M&A,Merger with Johnson Controls forms Johnson Controls International
+8/31/2016,9/7/2016,"Charter Communications, Inc. Class A",,EMC Corporation,,M&A,Acquisition by Dell Corp.
+9/20/2016,9/22/2016,"Cooper Companies, Inc.",,Starwood Hotels & Resorts Worldwide,,M&A,Acquisition by Marriott International Inc.
+9/27/2016,9/30/2016,Coty Inc. Class A,,"Diamond Offshore Drilling, Inc.",,Failure,Market cap changes
+10/24/2016,10/31/2016,Arconic Inc.,,Alcoa Inc.,,Other,Alcoa splits into Arconic and Alcoa
+11/29/2016,12/1/2016,Envision Healthcare Corp.,,"Legg Mason, Inc.",,Failure,Market cap changes
+11/29/2016,12/1/2016,Mid-America Apartment Communities,,"Owens-Illinois, Inc.",,Failure,Market cap changes
