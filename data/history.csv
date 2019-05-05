@@ -136,7 +136,7 @@ Announced,Implemented,Addition,Addition Ticker,Removal,Removal Ticker,Removal Ty
 12/8/2004,12/17/2004,Compass Bancshares,CBSS,Worthington Industries,WOR,Failure,Market cap changes
 12/21/2004,12/28/2004,XTO Energy,XTO,PeopleSoft Inc.,PSFT,M&A,Acquisition by Oracle
 3/7/2005,3/11/2005,National Oilwell Varco,NOV,Power-One,PWER,Failure,Market cap changes
-3/21/2005,3/24/2005,Sears Holdings Corp.,SHLD,Sears  Roebuck & Co.,S,M&A,Merger with Kmart (creating Sears Holdings)
+3/21/2005,3/24/2005,Sears Holdings Corp.,SHLD,Sears Roebuck & Co.,S,M&A,Merger with Kmart (creating Sears Holdings)
 6/22/2005,7/1/2005,D.R. Horton,DHI,Veritas Software,VRTS,M&A,Acquisition by Symantec
 6/28/2005,7/1/2005,Constellation Brands,STZ,Great Lakes Chemical,GLK,M&A,Acquisition by Crompton Corp
 7/12/2005,7/21/2005,Weatherford Int'l,WFT,"Toys ""R"" US",TOY,M&A,Taken private
@@ -188,7 +188,7 @@ Announced,Implemented,Addition,Addition Ticker,Removal,Removal Ticker,Removal Ty
 1/3/2007,1/9/2007,AvalonBay Communities,AVB,Symbol Technologies,SBL,M&A,Acquisition by Motorola
 1/31/2007,2/1/2007,Polo Ralph Lauren Corp.,RL,Comverse Technology,CMVT,Failure,Delisting by Nasdaq
 2/5/2007,2/14/2007,Hudson City Bancorp.,HCBK,American Power Conversion,APCC,M&A,Acquisition by Schneider Electric
-2/7/2007,2/21/2007,Integrys Energy Group  Inc.,TEG,Peoples Energy,PGL,M&A,"Acquisition by WPS Resources, which changes its name to Integrys"
+2/7/2007,2/21/2007,Integrys Energy Group Inc.,TEG,Peoples Energy,PGL,M&A,"Acquisition by WPS Resources, which changes its name to Integrys"
 2/7/2007,2/9/2007,Varian Medical Systems,VAR,Equity Office Properties,EOP,M&A,Acquisition by Blackstone Group
 2/26/2007,3/1/2007,C.H. Robinson Worldwide,CHRW,Health Management Assoc.,HMA,Other,Market cap changes (after payout of special dividend)
 3/12/2007,3/19/2007,Host Hotels & Resorts,HST,Phelps Dodge,PD,M&A,Acquisition by Freeport-McMoRan Copper & Gold
@@ -203,14 +203,14 @@ Announced,Implemented,Addition,Addition Ticker,Removal,Removal Ticker,Removal Ty
 6/21/2007,6/29/2007,Discover Financial Services,DFS,ADC Telecomm. Inc.,ADCT,Failure,Market cap changes
 6/25/2007,6/29/2007,General Growth Properties,GGP,Mellon Financial,MEL,M&A,Merger with Bank of New York
 7/2/2007,7/6/2007,American Capital Strategies,ACAS,Dollar General,DG,M&A,Taken private
-7/9/2007,7/11/2007,Akamai Technologies,AKAM,Biomet  Inc.,BMET,M&A,Taken private
+7/9/2007,7/11/2007,Akamai Technologies,AKAM,Biomet Inc.,BMET,M&A,Taken private
 8/16/2007,8/24/2007,Leucadia National Corp.,LUK,Keyspan Energy,KSE,M&A,Acquisition by National Grid Plc
 8/30/2007,9/7/2007,Microchip Technology,MCHP,Compass Bancshares,CBSS,M&A,Acquisition by Banco Bilbao Vizcaya Argentaria
 9/24/2007,9/26/2007,Tesoro Petroleum Co.,TSO,Maxim Integrated Products,MXIM,Failure,Delisting by Nasdaq
 9/24/2007,9/28/2007,Teradata Corp.,TDC,NCR Corp.,NCR,Other,Spins off Teradata
 9/24/2007,10/1/2007,Expedia Inc.,EXPE,Solectron Corp.,SLR,M&A,Acquisition by Flextronics
 9/24/2007,9/25/2007,IntercontinentalExchange Inc.,ICE,First Data Corp.,FDC,M&A,Taken private
-10/1/2007,10/5/2007,Noble Energy  Inc.,NBL,Archstone-Smith Trust,ASN,M&A,Taken private
+10/1/2007,10/5/2007,Noble Energy Inc.,NBL,Archstone-Smith Trust,ASN,M&A,Taken private
 10/8/2007,10/9/2007,Expeditors Int'l.,EXPD,TXU Corp.,TXU,M&A,Taken private
 10/18/2007,10/26/2007,Titanium Metals Corp.,TIE,Bausch & Lomb Inc.,BOL,M&A,Taken private
 10/18/2007,10/24/2007,NYSE Euronext,NYX,Hilton Hotels,HLT,M&A,Taken private
@@ -375,33 +375,33 @@ Announced,Implemented,Addition,Addition Ticker,Removal,Removal Ticker,Removal Ty
 10/29/2014,11/4/2014,"Level 3 Communications, Inc.",,"Jabil Circuit, Inc.",,Other,Does not meet new market cap criteria
 12/1/2014,12/4/2014,Royal Caribbean Cruises Ltd.,,"Bemis Company, Inc.",,Other,Does not meet new market cap criteria
 1/21/2015,1/26/2015,Endo International Plc,,Covidien Plc,,M&A,Acquisition by Medtronic
-1/23/2015,1/26/2015,"HCA Holdings, Inc.",,Safeway Inc.,,M&A,Taken private,Taken privat
-3/9/2015,3/11/2015,"Skyworks Solutions, Inc.",,"PetSmart, Inc.",,M&A,Taken private,Taken privat
-3/13/2015,3/20/2015,SL Green Realty Corp.,,Nabors Industries Ltd.,,Failure,Market cap changes,Market cap change
-3/13/2015,3/20/2015,Hanesbrands Inc.,,"Avon Products, Inc.",,Failure,Market cap changes,Market cap change
-3/13/2015,3/20/2015,Equinix Inc,,Denbury Resources Inc.,,Failure,Market cap changes,Market cap change
-3/13/2015,3/17/2015,"Henry Schein, Inc.",,CareFusion Corporation,,M&A,"Acquisition by Becton, Dickinson and Company","Acquisition by Becton, Dickinson and Company"
-3/17/2015,3/20/2015,"American Airlines Group, Inc.",,"Allergan, Inc.",,M&A,Acquisition by Actavis,Acquisition by Actavi
-3/27/2015,4/6/2015,Realty Income Corporation,,"Windstream Holdings, Inc.",,Other,Spins off assets,Spins off asset
-6/9/2015,6/11/2015,"Qorvo, Inc.",,"Lorillard, Inc.",,M&A,Acquisition by  Reynolds American,Acquisition by  Reynolds America
-6/19/2015,6/30/2015,"Baxalta, Inc.",,"QEP Resources, Inc.",,Failure,Market cap changes,Market cap change
-6/19/2015,6/19/2015,WestRock Co.,,MeadWestvaco Corporation,,Other,Merger with Rock-Tenn creates WestRock Co.,Merger with Rock-Tenn creates WestRock Co
-6/23/2015,7/1/2015,Columbia Pipeline Group Inc,,Allegheny Technologies Incorporated,,Failure,Market cap changes,Market cap change
-6/26/2015,6/30/2015,"J.B. Hunt Transport Services, Inc.",,"Integrys Energy Group, Inc.",,M&A,Acquisition by Wisconsin Energy Corp.,Acquisition by Wisconsin Energy Corp
-7/6/2015,7/8/2015,"Advance Auto Parts, Inc.",,"Family Dollar Stores, Inc.",,M&A,Acquisition by Dollar Tree,Acquisition by Dollar Tre
-7/14/2015,7/17/2015,PayPal Holdings Inc,,Noble Corporation plc,,Failure,Market cap changes,Market cap change
-7/24/2015,7/28/2015,Signet Jewelers Limited,,DIRECTV,,M&A,Acquisition by AT&T,Acquisition by AT&
-8/10/2015,9/18/2015,"Twenty-First Century Fox, Class B",,N/A,,N/A,N/A,N/
-8/10/2015,9/18/2015,News Corporation Class B,,N/A,,N/A,N/A,N/
-8/10/2015,9/18/2015,Comcast Corporation Class A Special,,N/A,,N/A,N/A,N/
-8/27/2015,8/28/2015,Activision Blizzard Inc,,Pall Corporation,,M&A,Acquisition by Danaher,Acquisition by Danahe
-8/27/2015,9/2/2015,"United Continental Holdings, Inc.",,"Hospira, Inc.",,M&A,Acquisition by Pfizer,Acquisition by Pfize
-9/30/2015,10/7/2015,Verisk Analytics Inc,,Joy Global Inc.,,Failure,Market cap changes,Market cap change
-10/27/2015,10/30/2015,Hewlett Packard Enterprise Co.,,"Hudson City Bancorp, Inc.",,M&A,Acquisition by M&T Bank,Acquisition by M&T Ban
-11/9/2015,11/17/2015,Synchrony Financial,,"Genworth Financial, Inc. Class A",,Failure,Market cap changes,Market cap change
-11/12/2015,11/18/2015,"Illumina, Inc.",,Sigma-Aldrich Corporation,,M&A,Acquisition by Merck KGaA,Acquisition by Merck KGa
-11/23/2015,11/27/2015,"CSRA, Inc.",,Computer Sciences Corporation,,Other,Spins off SCRA,Spins off SCR
-12/22/2015,12/28/2015,"Church & Dwight Co., Inc.",,Altera Corporation,,M&A,Acquisition by Intel,Acquisition by Inte
+1/23/2015,1/26/2015,"HCA Holdings, Inc.",,Safeway Inc.,,M&A,Taken private
+3/9/2015,3/11/2015,"Skyworks Solutions, Inc.",,"PetSmart, Inc.",,M&A,Taken private
+3/13/2015,3/20/2015,SL Green Realty Corp.,,Nabors Industries Ltd.,,Failure,Market cap changes
+3/13/2015,3/20/2015,Hanesbrands Inc.,,"Avon Products, Inc.",,Failure,Market cap changes
+3/13/2015,3/20/2015,Equinix Inc,,Denbury Resources Inc.,,Failure,Market cap changes
+3/13/2015,3/17/2015,"Henry Schein, Inc.",,CareFusion Corporation,,M&A,"Acquisition by Becton, Dickinson and Company"
+3/17/2015,3/20/2015,"American Airlines Group, Inc.",,"Allergan, Inc.",,M&A,Acquisition by Actavis
+3/27/2015,4/6/2015,Realty Income Corporation,,"Windstream Holdings, Inc.",,Other,Spins off assets
+6/9/2015,6/11/2015,"Qorvo, Inc.",,"Lorillard, Inc.",,M&A,Acquisition by Reynolds American
+6/19/2015,6/30/2015,"Baxalta, Inc.",,"QEP Resources, Inc.",,Failure,Market cap changes
+6/19/2015,6/19/2015,WestRock Co.,,MeadWestvaco Corporation,,Other,Merger with Rock-Tenn creates WestRock Co.
+6/23/2015,7/1/2015,Columbia Pipeline Group Inc,,Allegheny Technologies Incorporated,,Failure,Market cap changes
+6/26/2015,6/30/2015,"J.B. Hunt Transport Services, Inc.",,"Integrys Energy Group, Inc.",,M&A,Acquisition by Wisconsin Energy Corp.
+7/6/2015,7/8/2015,"Advance Auto Parts, Inc.",,"Family Dollar Stores, Inc.",,M&A,Acquisition by Dollar Tree
+7/14/2015,7/17/2015,PayPal Holdings Inc,,Noble Corporation plc,,Failure,Market cap changes
+7/24/2015,7/28/2015,Signet Jewelers Limited,,DIRECTV,,M&A,Acquisition by AT&T
+8/10/2015,9/18/2015,"Twenty-First Century Fox, Class B",,N/A,,N/A,N/A
+8/10/2015,9/18/2015,News Corporation Class B,,N/A,,N/A,N/A
+8/10/2015,9/18/2015,Comcast Corporation Class A Special,,N/A,,N/A,N/A
+8/27/2015,8/28/2015,Activision Blizzard Inc,,Pall Corporation,,M&A,Acquisition by Danaher
+8/27/2015,9/2/2015,"United Continental Holdings, Inc.",,"Hospira, Inc.",,M&A,Acquisition by Pfizer
+9/30/2015,10/7/2015,Verisk Analytics Inc,,Joy Global Inc.,,Failure,Market cap changes
+10/27/2015,10/30/2015,Hewlett Packard Enterprise Co.,,"Hudson City Bancorp, Inc.",,M&A,Acquisition by M&T Bank
+11/9/2015,11/17/2015,Synchrony Financial,,"Genworth Financial, Inc. Class A",,Failure,Market cap changes
+11/12/2015,11/18/2015,"Illumina, Inc.",,Sigma-Aldrich Corporation,,M&A,Acquisition by Merck KGaA
+11/23/2015,11/27/2015,"CSRA, Inc.",,Computer Sciences Corporation,,Other,Spins off SCRA
+12/22/2015,12/28/2015,"Church & Dwight Co., Inc.",,Altera Corporation,,M&A,Acquisition by Intel
 12/28/2015,1/4/2016,Willis Group Holdings,,Fossil Group Inc.,,Failure,Market cap changes
 1/13/2016,1/15/2016,Extra Space Storage Inc.,,Chubb Corporation,,M&A,Acquisition by ACE Ltd.
 1/22/2016,1/29/2016,Federal Realty Investment Trust,,Broadcom Corporation Class A,,M&A,Acquisition by Avago Technologies Ltd.
