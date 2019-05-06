@@ -26,3 +26,9 @@ This repository has made use of data from various sources compile a list of S&P 
 ## Contributing
 
 You are welcomed to submit a pull request if you spot any errors/mistakes. Please be sure to include some explanations on why you think it's wrong and how you've verified your proposed request.
+
+## Some sources for latest updates
+
+1. http://kr.spindices.com/documents/additional-material/sp-500-market-attributes-web-file.xlsx?force_download=true
+2. https://my.spindices.com/search/?ContentType=Announcement
+
