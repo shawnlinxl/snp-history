@@ -6,6 +6,9 @@ This repository has made use of data from various sources compile a list of S&P 
 
 ## Sample Data
 
+[View all](https://github.com/shawnlinxl/snp-history/blob/master/data/history.csv)
+[Download](https://raw.githubusercontent.com/shawnlinxl/snp-history/master/data/history.csv)
+
 | Announced  | Implemented | Addition                               | Addition Ticker | Removal                               | Removal Ticker | Removal Type | Reason for Removal                                                                                   |
 |------------|-------------|----------------------------------------|-----------------|---------------------------------------|----------------|--------------|------------------------------------------------------------------------------------------------------|
 | 12/29/1999 | 1/5/2000    | Young & Rubicam                        | YNR             | General Instrument Corp               | GIC            | M&A          | Acquisition by Motorola                                                                              |
