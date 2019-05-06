@@ -21,6 +21,7 @@ This repository has made use of data from various sources compile a list of S&P 
 
 1. Tickers listed in this table are point in time tickers (meaning on the day in history it is the correct ticker, but it can change after the day). It is better to use a unique identifier like CUSIP or ISIN.
 2. The history is not up to date. I am looking to add information for after 2016. The news releases are currently stored in the [Source](https://github.com/shawnlinxl/snp-history/tree/master/Source) folder.
+3. The tickers can be added either after close on the implemented date or before open. Data before 2017 has not been verified.
 
 ## Contributing
 
